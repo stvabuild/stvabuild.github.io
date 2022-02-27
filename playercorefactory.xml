@@ -8,4 +8,12 @@
 
 </players>
 <rules action="prepend">
-<rule protocols="smb" player="DefaultPlay
+<rule protocols="smb" player="DefaultPlayer" />
+<rule dvdimage="true" player="DefaultPlayer"/>
+<rule protocols="rtmp" player="DefaultPlayer"/>
+<rule protocols="rtsp" player="DefaultPlayer" />
+<rule protocols="sop" player="DefaultPlayer" />
+<rule internetstream="true" player="DefaultPlayer" />
+<rule video="true" player="DefaultPlayer"/>
+</rules>
+</playercorefactory>
