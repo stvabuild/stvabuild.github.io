@@ -1,43 +1,11 @@
 <playercorefactory>
 <players>
-<player name="VLC" type="ExternalPlayer" audio="false" video="true">
-<filename>org.videolan.vlc</filename>
-<hidexbmc>true</hidexbmc>
-<playcountminimumtime>120</playcountminimumtime>
-</player>
-
-<player name="AllCast" type="ExternalPlayer" audio="false" video="true">
-<filename>com.koushikdutta.cast</filename>
-<hidexbmc>true</hidexbmc>
-<playcountminimumtime>120</playcountminimumtime>
-</player>
-
-<player name="MX Player" type="ExternalPlayer" audio="false" video="true">
-<filename>com.mxtech.videoplayer.ad</filename>
-<hidexbmc>true</hidexbmc>
-<playcountminimumtime>120</playcountminimumtime>
-</player>
-
-<player name="LocalCast" type="ExternalPlayer" audio="false" video="true">
-<filename>de.stefanpledl.localcast</filename>
-<hidexbmc>true</hidexbmc>
-<playcountminimumtime>120</playcountminimumtime>
-</player> 
-
-<player name="Plex" type="ExternalPlayer" audio="false" video="true">
-<filename>com.plexapp.android</filename>
+<player name="Web Video Caster" type="ExternalPlayer" audio="false" video="true">
+<filename>com.instantbits.cast.webvideo</filename>
 <hidexbmc>true</hidexbmc>
 <playcountminimumtime>120</playcountminimumtime>
 </player>
 
 </players>
 <rules action="prepend">
-<rule protocols="smb" player="DefaultPlayer" />
-<rule dvdimage="true" player="DefaultPlayer"/>
-<rule protocols="rtmp" player="DefaultPlayer"/>
-<rule protocols="rtsp" player="DefaultPlayer" />
-<rule protocols="sop" player="DefaultPlayer" />
-<rule internetstream="true" player="DefaultPlayer" />
-<rule video="true" player="DefaultPlayer"/>
-</rules>
-</playercorefactory>
+<rule protocols="smb" player="DefaultPlay
