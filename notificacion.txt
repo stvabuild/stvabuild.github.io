@@ -1,0 +1,8 @@
+1
+|||
+
+[COLOR orange][B]Bienvenido al Complemento STVA[/B][/COLOR]
+Primera notificación de prueba
+
++info stva.ga
+Telegram: @stvabuild
