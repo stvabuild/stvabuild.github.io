@@ -2,7 +2,8 @@
 |||
 
 [COLOR orange][B]Bienvenido al Complemento STVA[/B][/COLOR]
-Primera notificación de prueba
 
+[COLOR white]Con este complemento podrás hacer copia de seguridad de la videoteca de Alfa y de la Aplicación,
+Limpiar la aplicación, Herramientas para Addons e instalar los Packs de Ajustes.[/COLOR]  
 +info stva.ga
 Telegram: @stvabuild
