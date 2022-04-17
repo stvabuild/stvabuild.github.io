@@ -15,7 +15,7 @@
     },
     {
       "name": "Estuary STVA",
-      "type": "addon",
+      "type": "skin",
       "section": false,
       "plugin": "skin.estuary.stva",
       "url": "https://github.com/stvabuild/stvabuild.github.io/raw/master/complemento/estuary.zip",
