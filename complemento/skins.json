@@ -28,7 +28,7 @@
     },
     {
       "name": "Cristal Touch",
-      "type": "addon",
+      "type": "skin",
       "section": false,
       "plugin": "skin.ctouch",
       "url": "https://github.com/stvabuild/stvabuild.github.io/raw/master/complemento/ctouch.zip",
