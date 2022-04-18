@@ -4,7 +4,7 @@
 [COLOR orange][B]Bienvenido al Complemento STVA[/B][/COLOR]
 
 [COLOR white]Con este complemento podrás hacer copia de seguridad de la videoteca de Alfa y de la Aplicación,
-Limpiar la aplicación, Herramientas para Addons e instalar los Packs de Ajustes.[/COLOR]  
+Limpiar la aplicación, Herramientas para Addons e instalar los Packs de Ajustes.
 
 Si tras la instalación del addon, alguna sección no funciona, cierra la aplicación y vuelve a abrirla.[/COLOR]  
 
