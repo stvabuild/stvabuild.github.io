@@ -1,4 +1,4 @@
-1
+2
 |||
 
 [COLOR orange][B]Bienvenido al Complemento STVA[/B][/COLOR]
@@ -7,6 +7,14 @@
 Limpiar la aplicación, Herramientas para Addons e instalar los Packs de Ajustes.
 
 Si tras la instalación del addon, alguna sección no funciona, cierra la aplicación y vuelve a abrirla.[/COLOR]  
+
+[COLOR orange]ACTUALIZACIONES 20/5/22[/COLOR]
+- Se han actualizado los skins Embuary 1.1.8, Estuary 1.1 y Cristal Touch 2.0
+- Se ha actualizado el complemento stva 1.4
+- Ha habido un error en el número de versión del skins Cristal Touch y no se ha cambiado de la 1.9 a la 2.0 en el repositorio stva Matrix.
+Hasta mañana no es podrá cambiar el número de versión así que no saltará la actualización.
+Se puede actualizar a la 2.0 desde el complemento stva, skins.
+En breve también estará disponible en Luar.
 
 +info stva.ga
 Telegram: @stvabuild
