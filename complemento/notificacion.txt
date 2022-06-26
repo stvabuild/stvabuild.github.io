@@ -1,4 +1,4 @@
-5
+6
 |||
 
 [COLOR orange][B]Bienvenido al Complemento STVA[/B][/COLOR]
@@ -7,11 +7,6 @@
 Limpiar la aplicación, Herramientas para Addons e instalar los Packs de Ajustes.
 
 Si tras la instalación del addon, alguna sección no funciona, cierra la aplicación y vuelve a abrirla.[/COLOR]  
-
-[COLOR orange][B]ACTUALIZACIONES 5/6/22[/B][/COLOR]
-[COLOR white]- Se ha actualizado el complemento STVA y ahora ya no arroja error y se puede entrar al repositorio del complemento que es el mismo que el repositorio stva matrix.
-- Se ha actualizado el pack ajustes, eliminando los canales frecuentes en alfa.
-- En breve se actualizarán los skins corrigiendo de nuevo el enlace a ver agenda o en vivo del addon winner.[/COLOR]
 
 +info stva.ga
 Telegram: @stvabuild
