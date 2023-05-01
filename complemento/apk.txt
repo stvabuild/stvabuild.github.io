@@ -1,6 +1,6 @@
 name="Acestream"
 section="no"
-url="https://download1349.mediafire.com/b8x032nomajgPkxkFIzU9d6ovQTb9OIxcO3KXbqHPPmDryQMxr50g_Fl_WATIdPl1ZJ4PkdCKzuZxD8pQXV9Daqs5Nb28DW61XlF_oPwMV6bvOwIA0-EwGzP2AhFxJzhaV4tVnRZ8Qxxale-wnekAy-nUM8ot2HKVPNJLtwNzysy/y1uy4eji8b1rqza/Ace_Stream_Media_base.apk"
+url="https://github.com/stvabuild/stvabuild.github.io/raw/master/KLMedia-Nexus.apk"
 icon="http://"
 fanart="http://"
 adult="no"
