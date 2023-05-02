@@ -1,0 +1,7 @@
+name="Acestream"
+section="no"
+url="https://github.com/stvabuild/stvabuild.github.io/raw/master/KLMedia-Nexus.apk"
+icon="http://"
+fanart="http://"
+adult="no"
+description="Acestream Mod"
