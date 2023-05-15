@@ -1,5 +1,5 @@
 name="Pack Ajustes"
-version="1.0.5"
+version="1.1"
 url="https://stvabuild.github.io/complemento/pack.zip"
 minor="http://"
 gui="http://"

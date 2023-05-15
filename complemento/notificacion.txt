@@ -1,4 +1,4 @@
-6
+7
 |||
 
 [COLOR orange][B]Bienvenido al Complemento STVA[/B][/COLOR]
@@ -8,5 +8,11 @@ Limpiar la aplicación, Herramientas para Addons e instalar los Packs de Ajustes
 
 Si tras la instalación del addon, alguna sección no funciona, cierra la aplicación y vuelve a abrirla.[/COLOR]  
 
-+info stva.ga
+[COLOR yellow][B]Nuevos packs de Ajustes[/B][/COLOR]
+Se han actualizado el pack ajustes y el pack ajustes con videoteca.
+- Se han actualizado los ajustes del addon alfa
+- Se ha actualizado la lista de tdtchannels para el IPTV Simple client
+- Actualizado los ajustes del addon autocompletion
+
++info stva.es
 Telegram: @stvabuild
