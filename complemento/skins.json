@@ -1,7 +1,20 @@
 {
   "addons": [
     {
-      "name": "Embuary STVA",
+      "name": "Cristal Touch",
+      "type": "addon",
+      "section": false,
+      "plugin": "skin.ctouch",
+      "url": "https://github.com/stvabuild/stvabuild.github.io/raw/master/complemento/ctouch.zip",
+      "repository": "repository.repostva.matrix",
+      "repositoryxml": "https://raw.githubusercontent.com/stvabuild/repostva.matrix/main/addons.xml",
+      "repositoryurl": "https://github.com/stvabuild/repostva.matrix/blob/main/repository.repostva.matrix/repository.repostva.matrix-1.0.zip?raw=true",
+      "icon": "https://stva.ga/wp-content/uploads/2021/09/4-768x432.jpg",
+      "adult": false,
+      "description": "Skin Wizard. [COLOR orange]+info:[/COLOR] stva.ga/skin-cristal-touch"
+    },
+    {
+      "name": "Embuary STVA (sin soporte)",
       "type": "addon",
       "section": false,
       "plugin": "skin.embuary.stva",
@@ -14,7 +27,7 @@
       "description": "Skin Wizard. [COLOR orange]+info:[/COLOR] stva.ga/embuary-stva"
     },
     {
-      "name": "Estuary STVA",
+      "name": "Estuary STVA (sin soporte)",
       "type": "addon",
       "section": false,
       "plugin": "skin.estuary.stva",
@@ -25,19 +38,6 @@
       "icon": "https://stva.ga/wp-content/uploads/2021/06/screenshot-02-1024x576.jpg",
       "adult": false,
       "description": "Skin Wizard. [COLOR orange]+info:[/COLOR] stva.ga/skin-estuary-stva"
-    },
-    {
-      "name": "Cristal Touch",
-      "type": "addon",
-      "section": false,
-      "plugin": "skin.ctouch",
-      "url": "https://github.com/stvabuild/stvabuild.github.io/raw/master/complemento/ctouch.zip",
-      "repository": "repository.repostva.matrix",
-      "repositoryxml": "https://raw.githubusercontent.com/stvabuild/repostva.matrix/main/addons.xml",
-      "repositoryurl": "https://github.com/stvabuild/repostva.matrix/blob/main/repository.repostva.matrix/repository.repostva.matrix-1.0.zip?raw=true",
-      "icon": "https://stva.ga/wp-content/uploads/2021/09/4-768x432.jpg",
-      "adult": false,
-      "description": "Skin Wizard. [COLOR orange]+info:[/COLOR] stva.ga/skin-cristal-touch"
     }
   ]
 }
