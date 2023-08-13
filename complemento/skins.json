@@ -14,7 +14,7 @@
       "description": "Skin Wizard. [COLOR orange]+info:[/COLOR] stva.es/skin-cristal-touch"
     },
     {
-      "name": "Embuary STVA (sin soporte)",
+      "name": "Embuary STVA(sin soporte)",
       "type": "addon",
       "section": false,
       "plugin": "skin.embuary.stva",
@@ -27,7 +27,7 @@
       "description": "Skin Wizard. No se actualizará más"
     },
     {
-      "name": "Estuary STVA (sin soporte)",
+      "name": "Estuary STVA(sin soporte)",
       "type": "addon",
       "section": false,
       "plugin": "skin.estuary.stva",
