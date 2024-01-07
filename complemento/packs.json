@@ -1,5 +1,5 @@
 {
-  "builds": [
+  "build": [
     {
 	  "name": "Pack Ajustes",
       "version": "1.2",
