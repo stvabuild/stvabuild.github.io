@@ -1,61 +1,172 @@
-#EXTM3U
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml"
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="Deportivos" tvg-id="M+ LaLiga FHD Multiaudio", M+ LaLiga FHD Multiaudio
-aa82e7d4f03061f2144a2f4be22f2e2210d42280
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="Deportivos" tvg-id="M+ LaLiga FHD Multiaudio", M+ LaLiga FHD
-1969c27658d4c8333ab2c0670802546121a774a5
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="Deportivos" tvg-id="M+ LaLiga HD", M+ LaLiga HD
-f031f5728b32f6089dda28edebe990cf198108d8
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm2.png" group-title="Deportivos" tvg-id="M+ LaLiga 2 FHD Multiaudio", M+ LaLiga 2 FHD
-26029f72a4ca831d09deefe89534818db1d105bc
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm2.png" group-title="Deportivos" tvg-id="M+ LaLiga 2 HD", M+ LaLiga 2 HD
-80126b240f3e4e004754fd8f8103e857ab2556a0
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm3.png" group-title="Deportivos" tvg-id="M+ LaLiga 3 FHD Multiaudio", M+ LaLiga 3 FHD
-4c4844564313e39a888f593511f299f5ba3cf929
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm4.png" group-title="Deportivos" tvg-id="M+ LaLiga 4 FHD Multiaudio", M+ LaLiga 4 FHD
-aa8f826da70e27a26b29c7b32402f17e8a67a8b0
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm5.png" group-title="Deportivos" tvg-id="M+ LaLiga 5 FHD Multiaudio", M+ LaLiga 5 FHD
-535394f62a810bc5aeb25be75ea5ff7d03e070b2
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm6.png" group-title="Deportivos" tvg-id="M+ LaLiga 6 FHD Multiaudio", M+ LaLiga 6 FHD
-c896d37778f9e43549a788fc22206a655895b51b
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligatvbar.png" group-title="Deportivos" tvg-id="LaLiga TV Bar", LaLiga TV Bar
-aa82e7d4f03061f2144a2f4be22f2e2210d42280
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" group-title="Deportivos" tvg-id="DAZN LaLiga FHD Multiaudio", DAZN LaLiga FHD Multiaudio
-1960a9be8ae9e8c755330218eac4c5805466290a
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" group-title="Deportivos" tvg-id="DAZN LaLiga HD Multiaudio", DAZN LaLiga HD Multiaudio
-a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll2.png" group-title="Deportivos" tvg-id="DAZN LaLiga 2 FHD Multiaudio", DAZN LaLiga 2 FHD Multiaudio
-e33e666c393ef04ebe99a9b92135d2e0b48c4d10
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll2.png" group-title="Deportivos" tvg-id="DAZN LaLiga 2 HD Multiaudio", DAZN LaLiga 2 HD Multiaudio
-0950c37fe1ea817fc561c611ae943d58505f7a79
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll3.png" group-title="Deportivos" tvg-id="DAZN LaLiga 3 FHD Multiaudio", DAZN LaLiga 3 FHD Multiaudio
-8c71f0e0a5476e10950fc827f9d2a507340aba74
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll4.png" group-title="Deportivos" tvg-id="DAZN LaLiga 4 FHD Multiaudio", DAZN LaLiga 4 FHD Multiaudio
-2792a8a5f4a3f53cd72dec377a2639cd12a6973e
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll5.png" group-title="Deportivos" tvg-id="DAZN LaLiga 5 FHD Multiaudio", DAZN LaLiga 5 FHD Multiaudio
-99e544cddbee13798e854c1009ee7d1a93fdedf7
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll5.png" group-title="Deportivos" tvg-id="M+ Liga de Campeones FHD Multiaudio", M+ Liga de Campeones FHD Multiaudio
-931b1984badcb821df7b47a66ac0835ac871b51c
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn01.png" group-title="Deportivos" tvg-id="DAZN 1", DAZN 1
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn01.png" group-title="Motor" tvg-id="DAZN 1 FHD", DAZN 1 FHD
 8ca07071b39185431f8e940ec98d1add9e561639
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="Deportivos" tvg-id="DAZN F1", DAZN F1
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn01.png" group-title="Motor" tvg-id="DAZN 1 HD", DAZN 1 HD
+eaff9293c76a324c750ef5094c2a4e2c96518d1f
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn02.png" group-title="Motor" tvg-id="DAZN 2 FHD", DAZN 2 FHD
+60dbeeb299ec04bf02bc7426d827547599d3d9fc
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn02.png" group-title="Motor" tvg-id="DAZN 2 HD", DAZN 2 HD
+7aa402bab9fff43258fbcf401881a39475f30aaf
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn03.png" group-title="Motor" tvg-id="DAZN 3", DAZN 3
+a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn04.png" group-title="Motor" tvg-id="DAZN 4", DAZN 4
+2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="Motor" tvg-id="DAZN F1 FHD", DAZN F1 FHD
 9dad717d99b29a05672166258a77c25b57713dd5
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="Motor" tvg-id="DAZN F1 FHD", DAZN F1 FHD
+5789ca155323664edd293b848606688edf803f4d
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="Motor" tvg-id="DAZN F1 HD", DAZN F1 HD
+e1fcad9de0c782c157fde6377805c58297ab65c2
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="Motor" tvg-id="DAZN F1 Multicamara", DAZN F1 Multicamara
+968627d24eec1c16b51d88e4a4a6c02211e3346e
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="Motor" tvg-id="DAZN F1 UHD", DAZN F1 UHD
+6b94479c24898700089e6b87d28a3ccc72dc4041
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="Futbol" tvg-id="M+ LaLiga FHD Multiaudio", M+ LaLiga FHD Multiaudio
+aa82e7d4f03061f2144a2f4be22f2e2210d42280
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="Futbol" tvg-id="M+ LaLiga FHD Multiaudio", M+ LaLiga FHD
+1969c27658d4c8333ab2c0670802546121a774a5
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="Futbol" tvg-id="M+ LaLiga HD", M+ LaLiga HD
+f031f5728b32f6089dda28edebe990cf198108d8
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm2.png" group-title="Futbol" tvg-id="M+ LaLiga 2 FHD Multiaudio", M+ LaLiga 2 FHD
+26029f72a4ca831d09deefe89534818db1d105bc
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm2.png" group-title="Futbol" tvg-id="M+ LaLiga 2 HD", M+ LaLiga 2 HD
+80126b240f3e4e004754fd8f8103e857ab2556a0
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm3.png" group-title="Futbol" tvg-id="M+ LaLiga 3 FHD Multiaudio", M+ LaLiga 3 FHD
+4c4844564313e39a888f593511f299f5ba3cf929
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm4.png" group-title="Futbol" tvg-id="M+ LaLiga 4 FHD Multiaudio", M+ LaLiga 4 FHD
+aa8f826da70e27a26b29c7b32402f17e8a67a8b0
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm5.png" group-title="Futbol" tvg-id="M+ LaLiga 5 FHD Multiaudio", M+ LaLiga 5 FHD
+535394f62a810bc5aeb25be75ea5ff7d03e070b2
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mllm6.png" group-title="Futbol" tvg-id="M+ LaLiga 6 FHD Multiaudio", M+ LaLiga 6 FHD
+c896d37778f9e43549a788fc22206a655895b51b
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligatvbar.png" group-title="Futbol" tvg-id="LaLiga TV Bar", LaLiga TV Bar
+aa82e7d4f03061f2144a2f4be22f2e2210d42280
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" group-title="Futbol" tvg-id="DAZN LaLiga FHD Multiaudio", DAZN LaLiga FHD Multiaudio
+1960a9be8ae9e8c755330218eac4c5805466290a
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" group-title="Futbol" tvg-id="DAZN LaLiga HD Multiaudio", DAZN LaLiga HD Multiaudio
+a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll2.png" group-title="Futbol" tvg-id="DAZN LaLiga 2 FHD Multiaudio", DAZN LaLiga 2 FHD Multiaudio
+e33e666c393ef04ebe99a9b92135d2e0b48c4d10
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll2.png" group-title="Futbol" tvg-id="DAZN LaLiga 2 HD Multiaudio", DAZN LaLiga 2 HD Multiaudio
+0950c37fe1ea817fc561c611ae943d58505f7a79
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll3.png" group-title="Futbol" tvg-id="DAZN LaLiga 3 FHD Multiaudio", DAZN LaLiga 3 FHD Multiaudio
+8c71f0e0a5476e10950fc827f9d2a507340aba74
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll4.png" group-title="Futbol" tvg-id="DAZN LaLiga 4 FHD Multiaudio", DAZN LaLiga 4 FHD Multiaudio
+2792a8a5f4a3f53cd72dec377a2639cd12a6973e
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll5.png" group-title="Futbol" tvg-id="DAZN LaLiga 5 FHD Multiaudio", DAZN LaLiga 5 FHD Multiaudio
+99e544cddbee13798e854c1009ee7d1a93fdedf7
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="Futbol" tvg-id="M+ Liga de Campeones FHD Multiaudio", M+ Liga de Campeones FHD Multiaudio
+931b1984badcb821df7b47a66ac0835ac871b51c
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="Futbol" tvg-id="M+ Liga de Campeones HD", M+ Liga de Campeones HD
+e2e2aca792aae5da19995ac516b1d620531bd49c
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc2.png" group-title="Futbol" tvg-id="M+ Liga de Campeones 2 FHD Multiaudio", M+ Liga de Campeones 2 FHD Multiaudio
+fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc2.png" group-title="Futbol" tvg-id="M+ Liga de Campeones 2 HD", M+ Liga de Campeones 2 HD
+6753492c1908274c268a1b28e2a054a0ff8f86f9
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligahm.png" group-title="Futbol" tvg-id="LaLiga Hypermotion FHD", LaLiga Hypermotion FHD
+4c46585214b23b1d802ef2168060c7649a3894cf
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligahm.png" group-title="Futbol" tvg-id="LaLiga Hypermotion FHD", LaLiga Hypermotion HD
+06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligahmm2.png" group-title="Futbol" tvg-id="LaLiga Hypermotion 2 FHD", LaLiga Hypermotion 2 FHD
+cf6249379184d88a61f9db617341c6b6e6abb342
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligahmm2.png" group-title="Futbol" tvg-id="LaLiga Hypermotion 2 HD", LaLiga Hypermotion 2 HD
+d9cf1776ec4443e88aab3ca4b57647b00b4e439e
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png" group-title="Deportes" tvg-id="#Vamos FHD", #Vamos FHD
+859bb6295b8d0f224224d3063d9db7cdeca03122
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png" group-title="Deportes" tvg-id="#Vamos HD", #Vamos HD
+0e18315b703248bb01eab6b9d3f0cb2cd893601f
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mev.png" group-title="Deportes" tvg-id="#Ellas", #Ellas
+67654e63b5065cdaa6c8e8d41bb5428b42b32830
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cero.png" group-title="Deportes" tvg-id="#0 de Movistar", #0 de Movistar
+864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mde.png" group-title="Deportes" tvg-id="M+ Deportes FHD", M+ Deportes FHD
+d00223931b1854163e24c5c22475015d7d45c112
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mde.png" group-title="Deportes" tvg-id="M+ Deportes HD", M+ Deportes HD
+77d83a79afcf6c865289cd8cdb42223cd4b6501c
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem2.png" group-title="Deportes" tvg-id="M+ Deportes 2", M+ Deportes 2
+e6f06d697f66a8fa606c4d61236c24b0d604d917
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bein-sport-logo-4DC3D3A3F9-seeklogo.com.png" group-title="Deportes" tvg-id="Bein Sports Ñ", Bein Sports Ñ
+41af6926a6010b68ba2540975761436bb077748f
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es.png" group-title="Deportes" tvg-id="Eurosport 1", Eurosport 1
+5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+
+#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="La 1 HD",La 1
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+
+#EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Generalistas" tvg-name="La 2 HD",La 2
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cuatro.png" group-title="General" tvg-id="Cuatro HD", Cuatro HD
+8eec35f4662be1af96963245bfa88fb7d0242c4
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/BEMAD.png" group-title="General" tvg-id="BeMad", BeMad
+5c267a00f264736c1d47c1cc3e754447ca8f770c
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/t5.png" group-title="General" tvg-id="Telecinco HD", Telecinco HD
+bb1982ae8d2d409d4ccd7a9f498042684e3532b5
+
+#EXTINF:-1 tvg-id="TV3.TV" tvg-logo="https://pbs.twimg.com/profile_images/1269286508625891328/rVes9BS__200x200.png" group-title="General" tvg-name="TV3",TV3 GEO CAT
+https://directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="TV3.TV" tvg-logo="https://pbs.twimg.com/profile_images/1269286508625891328/rVes9BS__200x200.png" group-title="General" tvg-name="TV3",TV3 GEO
+https://directes-tv-es.ccma.cat/live-origin/tv3-hls/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/canalterrassa/picture?width=200&height=200" group-title="General" tvg-name="Canal Terrassa",Canal Terrassa
+https://ingest2-video.streaming-pro.com/canalterrassa/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="324.TV" tvg-logo="https://graph.facebook.com/324cat/picture?width=200&height=200" group-title="General" tvg-name="324",324
+https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="BTV.TV" tvg-logo="https://graph.facebook.com/betevecat/picture?width=200&height=200" group-title="General" tvg-name="betevé",betevé
+https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
+
+#EXTINF:-1 tvg-id="ETB1.TV" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="General" tvg-name="ETB 1",ETB 1
+https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
+
+
+
