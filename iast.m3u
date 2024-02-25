@@ -1,5 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Deportes" tvg-id="M. LaLiga 1080 MultiAudio", M. LaLiga 1080 MultiAudio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Deportes" tvg-id="M+ LaLiga TV", M+ LaLiga TV
 aa82e7d4f03061f2144a2f4be22f2e2210d42280
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Deportes" tvg-id="DAZN 1", DAZN 1
+8ca07071b39185431f8e940ec98d1add9e561639
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Deportes" tvg-id="DAZN F1", DAZN F1
+9dad717d99b29a05672166258a77c25b57713dd5
