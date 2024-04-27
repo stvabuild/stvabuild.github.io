@@ -1,10 +1,31 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml"
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn01.png" group-title="Motor" tvg-id="DAZN 1 FHD", DAZN 1 FHD
+d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn01.png" group-title="Motor" tvg-id="DAZN 1 FHD", DAZN 1 FHD2
 8ca07071b39185431f8e940ec98d1add9e561639
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn01.png" group-title="Motor" tvg-id="DAZN 1 HD", DAZN 1 HD
 eaff9293c76a324c750ef5094c2a4e2c96518d1f
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="Motor" tvg-id="DAZN F1 FHD", DAZN F1 FHD
+9dad717d99b29a05672166258a77c25b57713dd5
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="Motor" tvg-id="DAZN F1 FHD", DAZN F1 FHD2
+5789ca155323664edd293b848606688edf803f4d
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="Motor" tvg-id="DAZN F1 HD", DAZN F1 HD
+e1fcad9de0c782c157fde6377805c58297ab65c2
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="Motor" tvg-id="DAZN F1 HD", DAZN F1 HD2
+d65257bb934b73647374224fd62d836815804be2
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="Motor" tvg-id="DAZN F1 Multicamara", DAZN F1 Multicamara
+968627d24eec1c16b51d88e4a4a6c02211e3346e
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="Motor" tvg-id="DAZN F1 UHD", DAZN F1 4K
+6b94479c24898700089e6b87d28a3ccc72dc4041
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn02.png" group-title="Motor" tvg-id="DAZN 2 FHD", DAZN 2 FHD
 60dbeeb299ec04bf02bc7426d827547599d3d9fc
@@ -17,21 +38,6 @@ a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn04.png" group-title="Motor" tvg-id="DAZN 4", DAZN 4
 2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="Motor" tvg-id="DAZN F1 FHD", DAZN F1 FHD
-9dad717d99b29a05672166258a77c25b57713dd5
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="Motor" tvg-id="DAZN F1 FHD", DAZN F1 FHD
-5789ca155323664edd293b848606688edf803f4d
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="Motor" tvg-id="DAZN F1 HD", DAZN F1 HD
-e1fcad9de0c782c157fde6377805c58297ab65c2
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="Motor" tvg-id="DAZN F1 Multicamara", DAZN F1 Multicamara
-968627d24eec1c16b51d88e4a4a6c02211e3346e
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="Motor" tvg-id="DAZN F1 UHD", DAZN F1 UHD
-6b94479c24898700089e6b87d28a3ccc72dc4041
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="Futbol" tvg-id="M+ LaLiga FHD Multiaudio", M+ LaLiga FHD Multiaudio
 aa82e7d4f03061f2144a2f4be22f2e2210d42280
@@ -135,37 +141,46 @@ e6f06d697f66a8fa606c4d61236c24b0d604d917
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es.png" group-title="Deportes" tvg-id="Eurosport 1", Eurosport 1
 5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 
-#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="La 1 HD",La 1
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es.png" group-title="Deportes" tvg-id="Euro1", Euro1
+626fc7cf70680d1d77b4b5293be94f63c910ee92
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mgo.png" group-title="Deportes" tvg-id="M+ Golf", M+ Golf
+626fc7cf70680d1d77b4b5293be94f63c910ee92
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/ufc-ultimate-fighting-championship3349.jpg" group-title="Deportes" tvg-id="UFC", UFC
+2d4b53402ff6158ec5aa4b38a80a773b5e00da0d
+
+#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="La 1 HD", La 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 
-#EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Generalistas" tvg-name="La 2 HD",La 2
+#EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Generalistas" tvg-name="La 2 HD", La 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cuatro.png" group-title="General" tvg-id="Cuatro HD", Cuatro HD
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cuatro.png" group-title="Generalistas" tvg-id="Cuatro HD", Cuatro HD
 8eec35f4662be1af96963245bfa88fb7d0242c4
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/BEMAD.png" group-title="General" tvg-id="BeMad", BeMad
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/BEMAD.png" group-title="Generalistas" tvg-id="BeMad", BeMad
 5c267a00f264736c1d47c1cc3e754447ca8f770c
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/t5.png" group-title="General" tvg-id="Telecinco HD", Telecinco HD
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/t5.png" group-title="Generalistas" tvg-id="Telecinco HD", Telecinco HD
 bb1982ae8d2d409d4ccd7a9f498042684e3532b5
 
-#EXTINF:-1 tvg-id="TV3.TV" tvg-logo="https://pbs.twimg.com/profile_images/1269286508625891328/rVes9BS__200x200.png" group-title="General" tvg-name="TV3",TV3 GEO CAT
+#EXTINF:-1 tvg-id="TV3.TV" tvg-logo="https://pbs.twimg.com/profile_images/1269286508625891328/rVes9BS__200x200.png" group-title="Generalistas" tvg-name="TV3", TV3
 https://directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
 
-#EXTINF:-1 tvg-id="TV3.TV" tvg-logo="https://pbs.twimg.com/profile_images/1269286508625891328/rVes9BS__200x200.png" group-title="General" tvg-name="TV3",TV3 GEO
+#EXTINF:-1 tvg-id="TV3.TV" tvg-logo="https://pbs.twimg.com/profile_images/1269286508625891328/rVes9BS__200x200.png" group-title="Generalistas" tvg-name="TV3", TV3
 https://directes-tv-es.ccma.cat/live-origin/tv3-hls/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/canalterrassa/picture?width=200&height=200" group-title="General" tvg-name="Canal Terrassa",Canal Terrassa
-https://ingest2-video.streaming-pro.com/canalterrassa/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TV3.TV" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/e/s/p/esports3.jpg" group-title="Generalistas" tvg-name="Esport3", Esport3
+4c0e50c9cc4971479feb12cc46ab1f5dbce8b132
 
-#EXTINF:-1 tvg-id="324.TV" tvg-logo="https://graph.facebook.com/324cat/picture?width=200&height=200" group-title="General" tvg-name="324",324
+#EXTINF:-1 tvg-id="324.TV" tvg-logo="https://graph.facebook.com/324cat/picture?width=200&height=200" group-title="Generalistas" tvg-name="324", 324
 https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
 
-#EXTINF:-1 tvg-id="BTV.TV" tvg-logo="https://graph.facebook.com/betevecat/picture?width=200&height=200" group-title="General" tvg-name="betevé",betevé
+#EXTINF:-1 tvg-id="BTV.TV" tvg-logo="https://graph.facebook.com/betevecat/picture?width=200&height=200" group-title="Generalistas" tvg-name="betevé", betevé
 https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
 
-#EXTINF:-1 tvg-id="ETB1.TV" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="General" tvg-name="ETB 1",ETB 1
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="Generalistas" tvg-id="ETB 1", ETB 1
 https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 
 
