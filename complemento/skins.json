@@ -12,32 +12,6 @@
       "icon": "https://stva.es/wp-content/uploads/2023/08/skin-logo-big.png",
       "adult": false,
       "description": "Skin Wizard. [COLOR orange]+info:[/COLOR] stva.es/skin-cristal-touch"
-    },
-    {
-      "name": "Embuary STVA(sin soporte)",
-      "type": "addon",
-      "section": false,
-      "plugin": "skin.embuary.stva",
-      "url": "https://github.com/stvabuild/stvabuild.github.io/raw/master/complemento/embuary.zip",
-      "repository": "repository.repostva.matrix",
-      "repositoryxml": "https://raw.githubusercontent.com/stvabuild/repostva.matrix/main/addons.xml",
-      "repositoryurl": "https://github.com/stvabuild/repostva.matrix/blob/main/repository.stva/repository.stva-1.0.zip?raw=true",
-      "icon": "https://stva.es/wp-content/uploads/2022/02/embuarynews.jpg",
-      "adult": false,
-      "description": "Skin Wizard. No se actualizará más"
-    },
-    {
-      "name": "Estuary STVA(sin soporte)",
-      "type": "addon",
-      "section": false,
-      "plugin": "skin.estuary.stva",
-      "url": "https://github.com/stvabuild/stvabuild.github.io/raw/master/complemento/estuary.zip",
-      "repository": "repository.repostva.matrix",
-      "repositoryxml": "https://raw.githubusercontent.com/stvabuild/repostva.matrix/main/addons.xml",
-      "repositoryurl": "https://github.com/stvabuild/repostva.matrix/blob/main/repository.stva/repository.stva-1.0.zip?raw=true",
-      "icon": "https://stva.es/wp-content/uploads/2021/04/estuary.jpg",
-      "adult": false,
-      "description": "Skin Wizard. No se actualizará más"
     }
   ]
 }
