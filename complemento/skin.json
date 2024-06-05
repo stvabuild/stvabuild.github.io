@@ -4,6 +4,7 @@
       "name": "Cristal Touch",
       "type": "addon",
       "section": false,
+	  "version": "3.8",
       "plugin": "skin.ctouch",
       "url": "https://github.com/stvabuild/stvabuild.github.io/raw/master/complemento/ctouch.zip",
       "repository": "repository.stva",
