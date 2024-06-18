@@ -1,6 +1,6 @@
 name="Pack D"
 version="1.0"
-url="https://stvabuild.github.io/complemento/_rst/packd.zip"
+url="https://raw.githubusercontent.com/stvabuild/stvabuild.github.io/master/complemento/_rst/packd.zip"
 minor="http://"
 gui="http://"
 kodi="19"
