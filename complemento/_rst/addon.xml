@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.stva" name="Complemento [COLOR orange]STVA PV[/COLOR]" version="1.0" provider-name="stva">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0" />
+        <import addon="resource.language.es_es" />
+        <import addon="script.module.requests" />
+        <import addon="script.module.six" />
+    </requires>
+    
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+    </extension>
+	
+	<extension point="xbmc.addon.repository" name="repostva.matrix">
+		<info compressed="false">https://raw.githubusercontent.com/stvabuild/repostva.matrix/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/stvabuild/repostva.matrix/master/addons.xml.md5</checksum>
+                <datadir zip="true">https://raw.githubusercontent.com/stvabuild/repostva.matrix/master</datadir>
+    </extension>
+    
+    <extension point="xbmc.service" library="startup.py" start="startup" />
+    
+    <extension point="xbmc.addon.metadata">
+    <summary lang="en">Complemento para Skins STVA</summary>
+    <description lang="en">Complemento para los skins STVA.
+Funciones: Instalar el pack de ajustes stva, instalar skins stva, limpiar aplicación, copia de seguridad de la videoteca de alfa y de la aplicación, proteger datos, herramientas de addons y más.
+Addon basado en el addon wizard kodileia, agradecimientos al grupo</description>
+        <platform>all</platform>
+        <reuselanguageinvoker>false</reuselanguageinvoker>
+        
+
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+
+
+
