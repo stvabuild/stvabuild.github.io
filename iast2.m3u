@@ -51,7 +51,7 @@ plugin://script.module.horus?action=play&id=1960a9be8ae9e8c755330218eac4c5805466
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yxgnPYF8/Captura-de-pantalla-2024-06-17-215407.png" group-title="Futbol" tvg-id="DAZN LaLiga HD", DAZN LaLiga HD
 plugin://script.module.horus?action=play&id=75251ba975132ec9a202806ba5bf606e87280c96
 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/evu0at1692970765.png" group-title="Futbol" tvg-id="DAZN LaLiga 2", DAZN LaLiga 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6p3hYT7R/Sin-t-tulo-3.png" group-title="Futbol" tvg-id="DAZN LaLiga 2", DAZN LaLiga 2
 plugin://script.module.horus?action=play&id=e33e666c393ef04ebe99a9b92135d2e0b48c4d10
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/375px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Futbol" tvg-id="M+ Liga de Campeones HD", M+ Liga de Campeones HD Multiaudio
@@ -69,10 +69,10 @@ plugin://script.module.horus?action=play&id=67654e63b5065cdaa6c8e8d41bb5428b42b3
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=399bb7&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmlc2.png" group-title="Futbol" tvg-id="M+ Liga de Campeones 2 HD", M+ Liga de Campeones 2 HD
 plugin://script.module.horus?action=play&id=6753492c1908274c268a1b28e2a054a0ff8f86f9
 
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP2.png" group-title="Futbol" tvg-id="M+ Liga de Campeones 3 HD", M+ Liga de Campeones 3 HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Liga_de_Campeones_3_por_Movistar_Plus%2B.png/revision/latest?cb=20230708171923" group-title="Futbol" tvg-id="M+ Liga de Campeones 3 HD", M+ Liga de Campeones 3 HD
 plugin://script.module.horus?action=play&id=b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
 
-#EXTINF:-1 tvg-logo="https://postimg.cc/XGm60CK8" group-title="Futbol" tvg-id="TV BAR HD", TV BAR
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tJCqWdYL/Captura-de-pantalla-2024-07-01-181504.png" group-title="Futbol" tvg-id="TV BAR HD", TV BAR
 plugin://script.module.horus?action=play&id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/2560px-LaLiga_TV_Hypermotion_2023_Logo.svg.png" group-title="Futbol" tvg-id="LaLiga TV Hypermotion HD", LaLiga Hypermotion HD
@@ -102,7 +102,7 @@ plugin://script.module.horus?action=play&id=acb510858f34c3c6fd5f79395b031abd6885
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/2070px-Movistar_Deportes_2.svg.png" group-title="Deportes" tvg-id="M+ Deportes 2 HD", M+ Deportes 2
 plugin://script.module.horus?action=play&id=e6f06d697f66a8fa606c4d61236c24b0d604d917
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNpyePvximViJsE236Iy4F55PVqOcHBCx6IA&s" group-title="Deportes" tvg-id="M+ Deportes 3 HD", M+ Deportes 3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wj7hDPPQ/Sin-t-tulo-4.png" group-title="Deportes" tvg-id="M+ Deportes 3 HD", M+ Deportes 3
 plugin://script.module.horus?action=play&id=aee0a595220e0f1c2fee725fd1dbc602d7152a9a
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2019/06/1_0_1_7577_412_1_C00000_0_0_0.png" group-title="Deportes" tvg-id="M+ Deportes 5", M+ Deportes 5
@@ -114,10 +114,10 @@ plugin://script.module.horus?action=play&id=8587ed8ac36ac477e1d4176d3159a38bd154
 #EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2019/06/1_0_1_7693_41E_1_C00000_0_0_0.png" group-title="Deportes" tvg-id="M+ Deportes 7", M+ Deportes 7
 plugin://script.module.horus?action=play&id=2448f1d084f440eed2fbe847e24f1c02f5659a78
 
-#EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1447433721/1065.png" group-title="Deportes" tvg-id="Eurosport 1", Eurosport 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png" group-title="Deportes" tvg-id="Eurosport 1", Eurosport 1
 plugin://script.module.horus?action=play&id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 
-#EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1447433758/1150.png" group-title="Deportes" tvg-id="Eurosport 2", Eurosport 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png" group-title="Deportes" tvg-id="Eurosport 2", Eurosport 2
 plugin://script.module.horus?action=play&id=c373da9e901d414b7384e671112e64d5a2310c29
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="Deportes" tvg-id="NBA", NBA
@@ -156,7 +156,7 @@ plugin://script.module.horus?action=play&id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5
 #EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2024/06/Sin-titulo-4.png" group-title="Futbol" tvg-id="M+ Copa América HD", M+ Copa América SD
 plugin://script.module.horus?action=play&id=6753492c1908274c268a1b28e2a054a0ff8f86f9
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2024/06/Sin-titulo-4.png" group-title="Futbol" tvg-id="M+ Copa América 2 HD", M+ Copa América 2 HD
+#EXTINF:-1 tvg-logo="hhttps://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP2.png" group-title="Futbol" tvg-id="M+ Copa América 2 HD", M+ Copa América 2 HD
 plugin://script.module.horus?action=play&id=ad372cba73aa0ece207a79532b3e30b731136bb2
 
 #EXTINF:-1 tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2022/02/movistar-2619511.jpg" group-title="Generalistas" tvg-id="Movistar Plus+ HD", Movistar Plus+ HD
