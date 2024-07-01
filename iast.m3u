@@ -18,6 +18,12 @@ acestream://9dad717d99b29a05672166258a77c25b57713dd5
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReWRdf3eYiGKDEKkTpL_3zwtPfngy9bEa6FQ&s" group-title="Motor" tvg-id="DAZN F1 HD", DAZN F1 HD
 acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
 
+#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C4E22AQFDTY5SMdP8zw/feedshare-shrink_2048_1536/0/1677665589604?e=2147483647&v=beta&t=UYPapfW-21O_4j_jph0YDwJHKTaisrDjqx5OiYdLs8E" group-title="Motor" tvg-id="F1 TV", F1 TV
+acestream://af3a82ac74286b504bbc07c4f55f4de3e9849fc4
+
+#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C4E22AQFDTY5SMdP8zw/feedshare-shrink_2048_1536/0/1677665589604?e=2147483647&v=beta&t=UYPapfW-21O_4j_jph0YDwJHKTaisrDjqx5OiYdLs8E" group-title="Motor" tvg-id="F1 TV", F1 TV
+acestream://6ada0ea83d3ae47d41a8cedcbfe12b894988f691
+
 #EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/01/dazn2.png" group-title="Deportes" tvg-id="DAZN 2", DAZN 2 HD
 acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
 
@@ -54,6 +60,9 @@ acestream://931b1984badcb821df7b47a66ac0835ac871b51c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/375px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Futbol" tvg-id="M+ Liga de Campeones HD", M+ Liga de Campeones HD
 acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/375px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Futbol" tvg-id="M+ Liga de Campeones HD", M+ Liga de Campeones HD
+acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/375px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Futbol" tvg-id="M+ Liga de Campeones HD", M+ Liga de Campeones
 acestream://67654e63b5065cdaa6c8e8d41bb5428b42b32830
 
@@ -62,6 +71,9 @@ acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP2.png" group-title="Futbol" tvg-id="M+ Liga de Campeones 3 HD", M+ Liga de Campeones 3 HD
 acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
+
+#EXTINF:-1 tvg-logo="https://postimg.cc/XGm60CK8" group-title="Futbol" tvg-id="TV BAR HD", TV BAR
+acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/2560px-LaLiga_TV_Hypermotion_2023_Logo.svg.png" group-title="Futbol" tvg-id="LaLiga TV Hypermotion HD", LaLiga Hypermotion HD
 acestream://4c46585214b23b1d802ef2168060c7649a3894cf
@@ -78,6 +90,9 @@ acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
 #EXTINF:-1 tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/vamos.png" group-title="Deportes" tvg-id="M+ Vamos HD", #Vamos HD
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
 
+#EXTINF:-1 tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/vamos.png" group-title="Deportes" tvg-id="M+ Vamos HD", #Vamos HD
+acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
+
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPDEP.png" group-title="Deportes" tvg-id="M+ Deportes HD", M+ Deportes HD
 acestream://d00223931b1854163e24c5c22475015d7d45c112
 
@@ -87,14 +102,23 @@ acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/2070px-Movistar_Deportes_2.svg.png" group-title="Deportes" tvg-id="M+ Deportes 2 HD", M+ Deportes 2
 acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNpyePvximViJsE236Iy4F55PVqOcHBCx6IA&s" group-title="Deportes" tvg-id="M+ Deportes 3 HD", M+ Deportes 3
+acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
+
 #EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2019/06/1_0_1_7577_412_1_C00000_0_0_0.png" group-title="Deportes" tvg-id="M+ Deportes 5", M+ Deportes 5
 acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
 
-#EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1447433758/1150.png" group-title="Deportes" tvg-id="Eurosport 2", Eurosport 2
-acestream://c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1280px-Movistar_Deportes.svg.png" group-title="Deportes" tvg-id="M+ Deportes 6", M+ Deportes 6
+acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2019/06/1_0_1_7693_41E_1_C00000_0_0_0.png" group-title="Deportes" tvg-id="M+ Deportes 7", M+ Deportes 7
+acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78
 
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1447433721/1065.png" group-title="Deportes" tvg-id="Eurosport 1", Eurosport 1
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1447433758/1150.png" group-title="Deportes" tvg-id="Eurosport 2", Eurosport 2
+acestream://c373da9e901d414b7384e671112e64d5a2310c29
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="Deportes" tvg-id="NBA", NBA
 acestream://e72d03fb9694164317260f684470be9ab781ed95
@@ -120,6 +144,21 @@ acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Golf_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Golf_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Deportes" tvg-id="M+ Golf", M+ Golf
 acestream://0742f7fabb74715b11c5a5dae24e93a4644697a5
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Golf_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Golf_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Deportes" tvg-id="M+ Golf", M+ Golf
+acestream://858b3cf2842ebe394999275e5ebb0435f1af2ae4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOGFfeaA3oxw4HLoQkp7B8BMfuZLTEBo_iVg&s" group-title="Deportes" tvg-id="ESPN", ESPN
+acestream://600222a4f98df80a2c0df2d60cb5ff3df9620710
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2024/06/Sin-titulo-4.png" group-title="Futbol" tvg-id="M+ Copa América HD", M+ Copa América HD
+acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2024/06/Sin-titulo-4.png" group-title="Futbol" tvg-id="M+ Copa América HD", M+ Copa América SD
+acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2024/06/Sin-titulo-4.png" group-title="Futbol" tvg-id="M+ Copa América 2 HD", M+ Copa América 2 HD
+acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
+
 #EXTINF:-1 tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2022/02/movistar-2619511.jpg" group-title="Generalistas" tvg-id="Movistar Plus+ HD", Movistar Plus+ HD
 acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
 
@@ -131,6 +170,9 @@ acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 
 #EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Generalistas" tvg-name="La 2 HD", La 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
+
+#EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Generalistas" tvg-name="La 2 HD", La 2
+acestream://60106275d34f995e26bb2cc4a21a42f586c6c555
 
 #EXTINF:-1 tvg-id="TV3.TV" tvg-logo="https://pbs.twimg.com/profile_images/1269286508625891328/rVes9BS__200x200.png" group-title="Generalistas" tvg-name="TV3", TV3
 https://directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
