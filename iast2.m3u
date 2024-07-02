@@ -66,7 +66,7 @@ plugin://script.module.horus?action=play&id=f096a64dd756a6d549aa7b12ee9acf7eee27
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/375px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Futbol" tvg-id="M+ Liga de Campeones HD", M+ Liga de Campeones
 plugin://script.module.horus?action=play&id=67654e63b5065cdaa6c8e8d41bb5428b42b32830
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=399bb7&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmlc2.png" group-title="Futbol" tvg-id="M+ Liga de Campeones 2 HD", M+ Liga de Campeones 2 HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Liga_de_Campeones_2_por_Movistar_Plus%2B.png" group-title="Futbol" tvg-id="M+ Liga de Campeones 2 HD", M+ Liga de Campeones 2 HD
 plugin://script.module.horus?action=play&id=6753492c1908274c268a1b28e2a054a0ff8f86f9
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Liga_de_Campeones_3_por_Movistar_Plus%2B.png/revision/latest?cb=20230708171923" group-title="Futbol" tvg-id="M+ Liga de Campeones 3 HD", M+ Liga de Campeones 3 HD
@@ -126,10 +126,7 @@ plugin://script.module.horus?action=play&id=e72d03fb9694164317260f684470be9ab781
 #EXTINF:-1 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/r/e/a/realmadrid-tv.jpg" group-title="Deportes" tvg-id="Real Madrid TV", Real Madrid TV
 plugin://script.module.horus?action=play&id=0ec3f3786318acd8dca2588f74c3759cda76cd11
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="Deportes" tvg-id="FOX SPORTS", Fox Sports
-plugin://script.module.horus?action=play&id=600222a4f98df80a2c0df2d60cb5ff3df9620710
-
-#EXTINF:-1 tvg-logo="" group-title="Boxeo" tvg-id="Euro1", Euro1
+#EXTINF:-1 tvg-logo="https://www.distro.tv/img/long_logo.png" group-title="Boxeo" tvg-id="DistroTV", DistroTV
 plugin://script.module.horus?action=play&id=626fc7cf70680d1d77b4b5293be94f63c910ee92
 
 #EXTINF:-1 tvg-logo="https://www.planetecsat.com/wp-content/uploads/2024/02/logo-DAZN-Combat.png" group-title="Boxeo" tvg-id="DAZN Combat", DAZN Combat
@@ -156,7 +153,7 @@ plugin://script.module.horus?action=play&id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5
 #EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2024/06/Sin-titulo-4.png" group-title="Futbol" tvg-id="M+ Copa América HD", M+ Copa América SD
 plugin://script.module.horus?action=play&id=6753492c1908274c268a1b28e2a054a0ff8f86f9
 
-#EXTINF:-1 tvg-logo="hhttps://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP2.png" group-title="Futbol" tvg-id="M+ Copa América 2 HD", M+ Copa América 2 HD
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP2.png" group-title="Futbol" tvg-id="M+ Copa América 2 HD", M+ Copa América 2 HD
 plugin://script.module.horus?action=play&id=ad372cba73aa0ece207a79532b3e30b731136bb2
 
 #EXTINF:-1 tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2022/02/movistar-2619511.jpg" group-title="Generalistas" tvg-id="Movistar Plus+ HD", Movistar Plus+ HD
