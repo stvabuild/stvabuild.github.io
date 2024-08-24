@@ -72,6 +72,12 @@ acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Liga_de_Campeones_3_por_Movistar_Plus%2B.png/revision/latest?cb=20230708171923" group-title="Futbol" tvg-id="M+ Liga de Campeones 3 HD", M+ Liga de Campeones 3 HD
 acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
 
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/Movistar_Liga_de_Campeones_4.png" group-title="Futbol" tvg-id=""M+ Liga de Campeones 4 HD", M+ Liga de Campeones 4
+acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
+
+#EXTINF:-1 tvg-logo="https://iili.io/dXoqCN9.png" group-title="Futbol" tvg-id=""M+ Liga de Campeones 5 HD", M+ Liga de Campeones 5
+acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/tJCqWdYL/Captura-de-pantalla-2024-07-01-181504.png" group-title="Futbol" tvg-id="TV BAR HD", TV BAR
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 
@@ -146,15 +152,6 @@ acestream://858b3cf2842ebe394999275e5ebb0435f1af2ae4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOGFfeaA3oxw4HLoQkp7B8BMfuZLTEBo_iVg&s" group-title="Deportes" tvg-id="ESPN", ESPN
 acestream://600222a4f98df80a2c0df2d60cb5ff3df9620710
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2024/06/Sin-titulo-4.png" group-title="Futbol" tvg-id="M+ Copa América HD", M+ Copa América HD
-acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2024/06/Sin-titulo-4.png" group-title="Futbol" tvg-id="M+ Copa América HD", M+ Copa América SD
-acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9
-
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP2.png" group-title="Futbol" tvg-id="M+ Copa América 2 HD", M+ Copa América 2 HD
-acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
 
 #EXTINF:-1 tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2022/02/movistar-2619511.jpg" group-title="Generalistas" tvg-id="Movistar Plus+ HD", Movistar Plus+ HD
 acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
