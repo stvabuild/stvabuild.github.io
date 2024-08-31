@@ -14,16 +14,16 @@ https://directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
 https://directes-tv-cat.ccma.cat/live-origin/c33-super3-hls/master.m3u8
 
 #EXTINF:-1 tvg-id="La Sexta HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/LaSexta_HD_Logo_2016.png" group-title="Generalistas" tvg-chno="6", tvg-name="La Sexta HD",La Sexta
-https://atres-live.atresmedia.com/c4a2d99adc114990adc8c88baed9cf9f274a7fc3_ES_1725105824_1725134564/h264/live/lasexta/bitrate_4.m3u8
+https://atres-live.atresmedia.com/c4a2d99adc114990adc8c88baed9cf9f274a7fc3_ES_1725105824_1725134564/h264/live/lasexta/master.m3u8
 
 #EXTINF:-1 tvg-id="Neox" tvg-logo="https://seeklogo.com/images/N/neox-2023-logo-366DAF4F12-seeklogo.com.png" group-title="Generalistas" tvg-chno="7", tvg-name="Neox",Neox
-https://atres-live.atresmedia.com/52e6e80327d2375a91d6566f187a6fd1f9ee72c6_ES_1725106011_1725134751/h264/live/neox/bitrate_4.m3u8
+https://atres-live.atresmedia.com/52e6e80327d2375a91d6566f187a6fd1f9ee72c6_ES_1725106011_1725134751/h264/live/neox/master.m3u8
 
 #EXTINF:-1 tvg-id="Mega" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2560px-MEGA.svg.png" group-title="Generalistas" tvg-chno="7", tvg-name="Mega",Mega
-https://atres-live.atresmedia.com/9a59d69a77860a1f6783f5af6c02fc1ce029c03f_ES_1725106106_1725134846/h264/live/mega/bitrate_4.m3u8
+https://atres-live.atresmedia.com/9a59d69a77860a1f6783f5af6c02fc1ce029c03f_ES_1725106106_1725134846/h264/live/mega/master.m3u8
 
 #EXTINF:-1 tvg-id="Antena 3 HD" tvg-logo="https://seeklogo.com/images/A/antena-3-logo-BFB77BC1D8-seeklogo.com.png" group-title="Generalistas" tvg-chno="7", tvg-name="Antena 3 HD",Antena 3
-https://atres-live.atresmedia.com/c0adf08212574a8d662872824c97408ed30a74cc_ES_1725105591_1725134331/h264/live/antena3/bitrate_3.m3u8
+https://atres-live.atresmedia.com/c0adf08212574a8d662872824c97408ed30a74cc_ES_1725105591_1725134331/h264/live/antena3/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/flooxer/picture?width=200&height=200" group-title="Generalistas" tvg-chno="8" tvg-name="Flooxer",Flooxer
 https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
@@ -154,7 +154,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/65ce480a78df2200131c597b/master.m3u
 #EXTINF:-1 tvg-id="5f1ac947dcd00d0007937c08" tvg-name="Pluto TV Cine Drama" tvg-logo="https://images.pluto.tv/channels/5f1ac947dcd00d0007937c08/colorLogoPNG.png" group-title="Peliculas" tvg-chno="212", Pluto TV Cine Drama
 https://stitcher.pluto.tv/stitch/hls/channel/5f1ac947dcd00d0007937c08/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
 
-#EXTINF:-1 tvg-id="60cc807324d60a0007708dc8" tvg-name="Pluto TV Cine de autor" tvg-logo="https://images.pluto.tv/channels/60cc807324d60a0007708dc8/colorLogoPNG.png" group-title="Películas" tvg-chno="213", Pluto TV Cine de autor
+#EXTINF:-1 tvg-id="60cc807324d60a0007708dc8" tvg-name="Pluto TV Cine de autor" tvg-logo="https://images.pluto.tv/channels/60cc807324d60a0007708dc8/colorLogoPNG.png" group-title="Peliculas" tvg-chno="213", Pluto TV Cine de autor
 https://stitcher.pluto.tv/stitch/hls/channel/60cc807324d60a0007708dc8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
 
 #EXTINF:-1 tvg-id="61373bb45168fe000773eecd" tvg-name="Pluto TV Cine Clásico" tvg-logo="https://images.pluto.tv/channels/61373bb45168fe000773eecd/colorLogoPNG.png" group-title="Peliculas" tvg-chno="214", Pluto TV Cine Clásico
@@ -214,7 +214,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/5f1abce155a03d0007718834/master.m3u
 #EXTINF:-1 tvg-id="622f42b831233300078658cc" tvg-name="Ciudadanos por el mundo" tvg-logo="https://images.pluto.tv/channels/622f42b831233300078658cc/colorLogoPNG.png" group-title="Tematicos" tvg-chno="407", Ciudadanos por el mundo
 https://stitcher.pluto.tv/stitch/hls/channel/622f42b831233300078658cc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
 
-#EXTINF:-1 tvg-id="61cd7b49543066000713b620" tvg-name="Pluto TV Historia" tvg-logo="https://images.pluto.tv/channels/61cd7b49543066000713b620/colorLogoPNG.png" group-title="Documental + Lifestyle" tvg-chno="451", Pluto TV Historia
+#EXTINF:-1 tvg-id="61cd7b49543066000713b620" tvg-name="Pluto TV Historia" tvg-logo="https://images.pluto.tv/channels/61cd7b49543066000713b620/colorLogoPNG.png" group-title="Tematicos" tvg-chno="451", Pluto TV Historia
 https://stitcher.pluto.tv/stitch/hls/channel/61cd7b49543066000713b620/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
 
 #EXTINF:-1 tvg-id="60d356a534f63f000850cdd7" tvg-name="Top Gear" tvg-logo="https://images.pluto.tv/channels/60d356a534f63f000850cdd7/colorLogoPNG.png" group-title="Tematicos" tvg-chno="500", Top Gear
@@ -226,16 +226,16 @@ https://stitcher.pluto.tv/stitch/hls/channel/6080345ebb49b90007ce0baf/master.m3u
 #EXTINF:-1 tvg-id="6080381ab7c9ea00074ec64c" tvg-name="World Poker Tour" tvg-logo="https://images.pluto.tv/channels/6080381ab7c9ea00074ec64c/colorLogoPNG.png" group-title="Tematicos" tvg-chno="512", World Poker Tour
 https://stitcher.pluto.tv/stitch/hls/channel/6080381ab7c9ea00074ec64c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
 
-#EXTINF:-1 tvg-id="63eb9495a8b227000841bf64" tvg-name="MTV Vergüenza ajena" tvg-logo="https://images.pluto.tv/channels/63eb9495a8b227000841bf64/colorLogoPNG.png" group-title="MTV" tvg-chno="550", MTV Vergüenza ajena
+#EXTINF:-1 tvg-id="63eb9495a8b227000841bf64" tvg-name="MTV Vergüenza ajena" tvg-logo="https://images.pluto.tv/channels/63eb9495a8b227000841bf64/colorLogoPNG.png" group-title="Humor" tvg-chno="550", MTV Vergüenza ajena
 https://stitcher.pluto.tv/stitch/hls/channel/63eb9495a8b227000841bf64/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
 
-#EXTINF:-1 tvg-id="5f1ab3c7778230000735cf41" tvg-name="MTV Catfish TV Show" tvg-logo="https://images.pluto.tv/channels/5f1ab3c7778230000735cf41/colorLogoPNG.png" group-title="MTV" tvg-chno="551", MTV Catfish TV Show
+#EXTINF:-1 tvg-id="5f1ab3c7778230000735cf41" tvg-name="MTV Catfish TV Show" tvg-logo="https://images.pluto.tv/channels/5f1ab3c7778230000735cf41/colorLogoPNG.png" group-title="Tematicos" tvg-chno="551", MTV Catfish TV Show
 https://stitcher.pluto.tv/stitch/hls/channel/5f1ab3c7778230000735cf41/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
 
-#EXTINF:-1 tvg-id="5f1aadf373bed3000794d1d7" tvg-name="MTV Originals" tvg-logo="https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png" group-title="MTV" tvg-chno="552", MTV Originals
+#EXTINF:-1 tvg-id="5f1aadf373bed3000794d1d7" tvg-name="MTV Originals" tvg-logo="https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png" group-title="Tematicos" tvg-chno="552", MTV Originals
 https://stitcher.pluto.tv/stitch/hls/channel/5f1aadf373bed3000794d1d7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
 
-#EXTINF:-1 tvg-id="6130d8dc943001000708548d" tvg-name="MTV Realities" tvg-logo="https://images.pluto.tv/channels/6130d8dc943001000708548d/colorLogoPNG.png" group-title="MTV" tvg-chno="554", MTV Realities
+#EXTINF:-1 tvg-id="6130d8dc943001000708548d" tvg-name="MTV Realities" tvg-logo="https://images.pluto.tv/channels/6130d8dc943001000708548d/colorLogoPNG.png" group-title="Tematicos" tvg-chno="554", MTV Realities
 https://stitcher.pluto.tv/stitch/hls/channel/6130d8dc943001000708548d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
 
 #EXTINF:-1 tvg-id="628751bb7154a40007168843" tvg-name="South Park" tvg-logo="https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG.png" group-title="Humor" tvg-chno="600", South Park
@@ -261,12 +261,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/668677b774f5ec0008124f33/master.m3u
 
 #EXTINF:-1 tvg-id="668678bc0642e500080f90c6" tvg-name="Yo! MTV" tvg-logo="https://images.pluto.tv/channels/668678bc0642e500080f90c6/colorLogoPNG.png" group-title="Musica" tvg-chno="805", Yo! MTV
 https://stitcher.pluto.tv/stitch/hls/channel/668678bc0642e500080f90c6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
-
-#EXTINF:-1 tvg-id="642afefb9189ce00088f592c" tvg-name="MTV Pride" tvg-logo="https://images.pluto.tv/channels/642afefb9189ce00088f592c/colorLogoPNG.png" group-title="Musica" tvg-chno="806", MTV Pride
-https://stitcher.pluto.tv/stitch/hls/channel/642afefb9189ce00088f592c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
-
-#EXTINF:-1 tvg-id="6087c6c5db549e0007eead39" tvg-name="MTV Summer Hits" tvg-logo="https://images.pluto.tv/channels/6087c6c5db549e0007eead39/colorLogoPNG.png" group-title="Musica" tvg-chno="807", MTV Summer Hits
-https://stitcher.pluto.tv/stitch/hls/channel/6087c6c5db549e0007eead39/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
 
 #EXTINF:-1 tvg-id="61ea759737679900078ff559" tvg-name="MTV Party Music" tvg-logo="https://images.pluto.tv/channels/61ea759737679900078ff559/colorLogoPNG.png" group-title="Musica" tvg-chno="808", MTV Party Music
 https://stitcher.pluto.tv/stitch/hls/channel/61ea759737679900078ff559/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
