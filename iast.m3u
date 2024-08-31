@@ -1,5 +1,4 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml"
-#EXTM3U url-tvg="https://raw.github.com/matthuisman/i.mjh.nz/master/PlutoTV/es.xml.gz"
 
 #EXTINF:-1 tvg-id="La 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/512px-Logo_TVE-1.svg.png" group-title="Generalistas" tvg-chno="1",La 1
 https://rtvelivestream-clnx.rtve.es/rtvesec/cat/la1_cat_main_dvr.m3u8
@@ -19,11 +18,14 @@ https://atres-live.atresmedia.com/c4a2d99adc114990adc8c88baed9cf9f274a7fc3_ES_17
 #EXTINF:-1 tvg-id="Neox" tvg-logo="https://seeklogo.com/images/N/neox-2023-logo-366DAF4F12-seeklogo.com.png" group-title="Generalistas" tvg-chno="7", tvg-name="Neox",Neox
 https://atres-live.atresmedia.com/52e6e80327d2375a91d6566f187a6fd1f9ee72c6_ES_1725106011_1725134751/h264/live/neox/master.m3u8
 
-#EXTINF:-1 tvg-id="Mega" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2560px-MEGA.svg.png" group-title="Generalistas" tvg-chno="7", tvg-name="Mega",Mega
+#EXTINF:-1 tvg-id="Mega" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2560px-MEGA.svg.png" group-title="Generalistas" tvg-chno="8", tvg-name="Mega",Mega
 https://atres-live.atresmedia.com/9a59d69a77860a1f6783f5af6c02fc1ce029c03f_ES_1725106106_1725134846/h264/live/mega/master.m3u8
 
-#EXTINF:-1 tvg-id="Antena 3 HD" tvg-logo="https://seeklogo.com/images/A/antena-3-logo-BFB77BC1D8-seeklogo.com.png" group-title="Generalistas" tvg-chno="7", tvg-name="Antena 3 HD",Antena 3
+#EXTINF:-1 tvg-id="Antena 3 HD" tvg-logo="https://seeklogo.com/images/A/antena-3-logo-BFB77BC1D8-seeklogo.com.png" group-title="Generalistas" tvg-chno="9", tvg-name="Antena 3 HD",Antena 3
 https://atres-live.atresmedia.com/c0adf08212574a8d662872824c97408ed30a74cc_ES_1725105591_1725134331/h264/live/antena3/master.m3u8
+
+#EXTINF:-1 tvg-id="Antena 3 HD" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="Generalistas" tvg-chno="10", tvg-name="Cuatro HD",Cuatro
+https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/chunklist_b3628000_vo.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/flooxer/picture?width=200&height=200" group-title="Generalistas" tvg-chno="8" tvg-name="Flooxer",Flooxer
 https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
