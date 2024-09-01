@@ -25,7 +25,7 @@ https://atres-live.atresmedia.com/9a59d69a77860a1f6783f5af6c02fc1ce029c03f_ES_17
 https://atres-live.atresmedia.com/c0adf08212574a8d662872824c97408ed30a74cc_ES_1725105591_1725134331/h264/live/antena3/master.m3u8
 
 #EXTINF:-1 tvg-id="Cuatro HD" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="Generalistas" tvg-chno="10", tvg-name="Cuatro HD",Cuatro
-https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/chunklist_b3628000_vo.m3u8
+https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/flooxer/picture?width=200&height=200" group-title="Generalistas" tvg-chno="8" tvg-name="Flooxer",Flooxer
 https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
@@ -179,9 +179,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/645a309c5a0cd5000873f609/master.m3u
 
 #EXTINF:-1 tvg-id="5f984f4a09e92d0007d74647" tvg-name="Archivos Forenses" tvg-logo="https://images.pluto.tv/channels/5f984f4a09e92d0007d74647/colorLogoPNG.png" group-title="Tematicos" tvg-chno="300", Archivos Forenses
 https://stitcher.pluto.tv/stitch/hls/channel/5f984f4a09e92d0007d74647/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
-
-#EXTINF:-1 tvg-id="64a3f200f238ce0008d47247" tvg-name="Pluto TV True Crime" tvg-logo="https://images.pluto.tv/channels/64a3f200f238ce0008d47247/colorLogoPNG.png" group-title="Tematicos" tvg-chno="306", Pluto TV True Crime
-https://stitcher.pluto.tv/stitch/hls/channel/64a3f200f238ce0008d47247/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
 
 #EXTINF:-1 tvg-id="65cf6ab58145cb0008129ca8" tvg-name="Pluto TV Series criminales" tvg-logo="https://images.pluto.tv/channels/65cf6ab58145cb0008129ca8/colorLogoPNG.png" group-title="Tematicos" tvg-chno="310", Pluto TV Series criminales
 https://stitcher.pluto.tv/stitch/hls/channel/65cf6ab58145cb0008129ca8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
