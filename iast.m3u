@@ -24,7 +24,7 @@ https://atres-live.atresmedia.com/9a59d69a77860a1f6783f5af6c02fc1ce029c03f_ES_17
 #EXTINF:-1 tvg-id="Antena 3 HD" tvg-logo="https://seeklogo.com/images/A/antena-3-logo-BFB77BC1D8-seeklogo.com.png" group-title="Generalistas" tvg-chno="9", tvg-name="Antena 3 HD",Antena 3
 https://atres-live.atresmedia.com/c0adf08212574a8d662872824c97408ed30a74cc_ES_1725105591_1725134331/h264/live/antena3/master.m3u8
 
-#EXTINF:-1 tvg-id="Antena 3 HD" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="Generalistas" tvg-chno="10", tvg-name="Cuatro HD",Cuatro
+#EXTINF:-1 tvg-id="Cuatro HD" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="Generalistas" tvg-chno="10", tvg-name="Cuatro HD",Cuatro
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/chunklist_b3628000_vo.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/flooxer/picture?width=200&height=200" group-title="Generalistas" tvg-chno="8" tvg-name="Flooxer",Flooxer
@@ -168,7 +168,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/61373bb45168fe000773eecd/master.m3u
 #EXTINF:-1 tvg-id="6086d3f420fc8500075f8dbf" tvg-name="Runtime" tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="Peliculas" tvg-chno="215", Runtime
 https://stitcher.pluto.tv/stitch/hls/channel/6086d3f420fc8500075f8dbf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
 
-#EXTINF:-1 tvg-id="rakuten top free" tvg-logo="https://i.postimg.cc/bNNS3TjC/Captura-de-pantalla-2024-09-01-105647.png" group-title="Generalistas",Rakuten TV Top Free
+#EXTINF:-1 tvg-id="rakuten top free" tvg-logo="https://i.postimg.cc/bNNS3TjC/Captura-de-pantalla-2024-09-01-105647.png" group-title="Peliculas",Rakuten TV Top Free
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5f1aadf373bed3000794d1d7" tvg-name="MTV Originals" tvg-logo="https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png" group-title="Tematicos" tvg-chno="552", MTV Originals
@@ -460,3 +460,6 @@ https://ztnr.rtve.es/ztnr/1712295.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/MundoNautica/picture?width=200&height=200" group-title="Deportes" tvg-name="Mundo Nautica",Mundo Nautica
 #EXTVLCOPT:http-referrer=https://player.streamingconnect.com/
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TraceSSLogo.png/1200px-TraceSSLogo.png" group-title="Deportes" tvg-name="Trace Sports Stars",Trace Sport Stars
+http://tracesportstars-samsunges.amagi.tv/hls/amagi_hls_data_samsunguk-tracesport-samsungspain/CDN/playlist.m3u8
