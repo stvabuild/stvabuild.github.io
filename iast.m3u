@@ -42,6 +42,9 @@ https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 #EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="Generalistas" tvg-name="24h",24h
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
+#EXTINF:-1 tvg-id="Fitel" tvg-logo="https://www.novaradiolloret.org/imatges/Logo-de-Fitel-TV.png" group-title="Generalistas" tvg-name="Fitel TV",Fitel TV
+https://tv.mywifisocial.es/live.m3u8
+
 #EXTINF:-1 tvg-id="Clan.es" tvg-logo="https://i.imgur.com/03jFV68.png" group-title="Infantiles",Clan
 https://ztnr.rtve.es/ztnr/5466990.m3u8
 
@@ -114,6 +117,9 @@ https://stitcher.pluto.tv/stitch/hls/channel/619b7db4872c650008eb8b6a/master.m3u
 #EXTINF:-1 tvg-id="60d3574e97f10800078455de" tvg-name="Doctor Who" tvg-logo="https://images.pluto.tv/channels/60d3574e97f10800078455de/colorLogoPNG.png" group-title="Series" tvg-chno="116", Doctor Who
 https://stitcher.pluto.tv/stitch/hls/channel/60d3574e97f10800078455de/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
 
+#EXTINF:-1 tvg-id="60d3574e97f10800078455de" tvg-name="Doctor Who" tvg-logo="https://babaktv.com/wp-content/uploads/2023/04/Rakuten-TV-Shows-Spain-1.jpg" group-title="Series" tvg-chno="117", Rakuten TV Series
+https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="5f1ac1f1b66c76000790ef27" tvg-name="Pluto TV peliculas Estelar" tvg-logo="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png" group-title="Peliculas" tvg-chno="200", Pluto TV Cine Estelar
 https://stitcher.pluto.tv/stitch/hls/channel/5f1ac1f1b66c76000790ef27/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
 
@@ -162,6 +168,9 @@ https://stitcher.pluto.tv/stitch/hls/channel/61373bb45168fe000773eecd/master.m3u
 #EXTINF:-1 tvg-id="6086d3f420fc8500075f8dbf" tvg-name="Runtime" tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="Peliculas" tvg-chno="215", Runtime
 https://stitcher.pluto.tv/stitch/hls/channel/6086d3f420fc8500075f8dbf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
 
+#EXTINF:-1 tvg-id="rakuten top free" tvg-logo="https://i.postimg.cc/bNNS3TjC/Captura-de-pantalla-2024-09-01-105647.png" group-title="Generalistas",Rakuten TV Top Free
+https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="5f1aadf373bed3000794d1d7" tvg-name="MTV Originals" tvg-logo="https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png" group-title="Tematicos" tvg-chno="552", MTV Originals
 https://stitcher.pluto.tv/stitch/hls/channel/5f1aadf373bed3000794d1d7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
 
@@ -185,6 +194,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/60218baa464ef900073168c1/master.m3u
 
 #EXTINF:-1 tvg-id="65a6884c07e03a00088e0d6e" tvg-name="Pluto TV Extremo" tvg-logo="https://images.pluto.tv/channels/65a6884c07e03a00088e0d6e/colorLogoPNG.png" group-title="Tematicos" tvg-chno="354", Pluto TV Extremo
 https://stitcher.pluto.tv/stitch/hls/channel/65a6884c07e03a00088e0d6e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
+
+#EXTINF:-1 tvg-id="65a6884c07e03a00088e0d6e" tvg-name="Rakuten TV Family" tvg-logo="https://i.postimg.cc/MHGZb9j1/Captura-de-pantalla-2024-09-01-105944.png
 
 #EXTINF:-1 tvg-id="5f1abf5fafb5ee0007d4d0ca" tvg-name="FailArmy" tvg-logo="https://images.pluto.tv/channels/5f1abf5fafb5ee0007d4d0ca/colorLogoPNG.png" group-title="Humor" tvg-chno="355", FailArmy
 https://stitcher.pluto.tv/stitch/hls/channel/5f1abf5fafb5ee0007d4d0ca/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
