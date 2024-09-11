@@ -252,7 +252,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/668678bc0642e500080f90c6/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/61ea759737679900078ff559/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
 
 #EXTINF:-1 tvg-id="6686796619311200085310a0" tvg-name="MTV Flow Latino" tvg-logo="https://images.pluto.tv/channels/6686796619311200085310a0/colorLogoPNG.png" group-title="Musica" tvg-chno="809", MTV Flow Latino
-https://stitcher.pluto.tv/stitch/hls/channel/6686796619311200085310a0/master.m3u8
+https://stitcher.pluto.tv/stitch/hls/channel/6686796619311200085310a0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
 
 #EXTINF:-1 tvg-id="6304f626d1a0ac00083a05c5" tvg-name="Los padrinos mágicos" tvg-logo="https://images.pluto.tv/channels/6304f626d1a0ac00083a05c5/colorLogoPNG.png" group-title="Infantiles" tvg-chno="901", Los padrinos mágicos
 https://stitcher.pluto.tv/stitch/hls/channel/6304f626d1a0ac00083a05c5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
