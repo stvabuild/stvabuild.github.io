@@ -253,7 +253,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/645a309c5a0cd5000873f609/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/5f984f4a09e92d0007d74647/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
 
 #EXTINF:-1 tvg-id="5f1ac1f1b66c76000790ef27" tvg-name="M+ Series HD" tvg-logo="https://i.imgur.com/c9KSswd.png" group-title="Series" tvg-chno="200", M+ Series
-https://oha.to/play/1138873971/index.m3u8
+https://oha.to/play/1138873971/index.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
 
 #EXTINF:-1 tvg-id="65cf6ab58145cb0008129ca8" tvg-name="Pluto TV Series criminales" tvg-logo="https://images.pluto.tv/channels/65cf6ab58145cb0008129ca8/colorLogoPNG.png" group-title="Tematicos" tvg-chno="310", Pluto TV Series criminales
 https://stitcher.pluto.tv/stitch/hls/channel/65cf6ab58145cb0008129ca8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
