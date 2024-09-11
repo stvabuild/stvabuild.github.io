@@ -13,16 +13,16 @@ https://directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
 https://directes-tv-cat.ccma.cat/live-origin/c33-super3-hls/master.m3u8
 
 #EXTINF:-1 tvg-id="La Sexta HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/LaSexta_HD_Logo_2016.png" group-title="Generalistas" tvg-chno="6", tvg-name="La Sexta HD",La Sexta
-https://atres-live.atresmedia.com/c4a2d99adc114990adc8c88baed9cf9f274a7fc3_ES_1725105824_1725134564/h264/live/lasexta/master.m3u8
+https://atres-live.atresmedia.com/de064b9ae0c9f8320a9377692325799415869260_ES_1726069683_1726098423/h264/live/lasexta/master.m3u8
 
 #EXTINF:-1 tvg-id="Neox" tvg-logo="https://seeklogo.com/images/N/neox-2023-logo-366DAF4F12-seeklogo.com.png" group-title="Generalistas" tvg-chno="7", tvg-name="Neox",Neox
-https://atres-live.atresmedia.com/52e6e80327d2375a91d6566f187a6fd1f9ee72c6_ES_1725106011_1725134751/h264/live/neox/master.m3u8
+https://atres-live.atresmedia.com/3162bee2409cf31a782982f1ff0e386d6daca2ec_ES_1726069729_1726098469/h264/live/neox/master.m3u8
 
 #EXTINF:-1 tvg-id="Mega" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2560px-MEGA.svg.png" group-title="Generalistas" tvg-chno="8", tvg-name="Mega",Mega
-https://atres-live.atresmedia.com/9a59d69a77860a1f6783f5af6c02fc1ce029c03f_ES_1725106106_1725134846/h264/live/mega/master.m3u8
+https://atres-live.atresmedia.com/eab792616106831609b764d7e64fdecf35ae5d42_ES_1726069761_1726098501/h264/live/mega/master.m3u8
 
 #EXTINF:-1 tvg-id="Antena 3 HD" tvg-logo="https://seeklogo.com/images/A/antena-3-logo-BFB77BC1D8-seeklogo.com.png" group-title="Generalistas" tvg-chno="9", tvg-name="Antena 3 HD",Antena 3
-https://atres-live.atresmedia.com/c0adf08212574a8d662872824c97408ed30a74cc_ES_1725105591_1725134331/h264/live/antena3/master.m3u8
+https://atres-live.atresmedia.com/2e56e41e2054c3f6a22f41a0f50fb91eeeea64bc_ES_1726069789_1726098529/h264/live/antena3/master.m3u8
 
 #EXTINF:-1 tvg-id="Cuatro HD" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="Generalistas" tvg-chno="10", tvg-name="Cuatro HD",Cuatro
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/index.m3u8
@@ -252,7 +252,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/668678bc0642e500080f90c6/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/61ea759737679900078ff559/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
 
 #EXTINF:-1 tvg-id="6686796619311200085310a0" tvg-name="MTV Flow Latino" tvg-logo="https://images.pluto.tv/channels/6686796619311200085310a0/colorLogoPNG.png" group-title="Musica" tvg-chno="809", MTV Flow Latino
-https://stitcher.pluto.tv/stitch/hls/channel/6686796619311200085310a0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
+https://stitcher.pluto.tv/stitch/hls/channel/6686796619311200085310a0/master.m3u8
 
 #EXTINF:-1 tvg-id="6304f626d1a0ac00083a05c5" tvg-name="Los padrinos mágicos" tvg-logo="https://images.pluto.tv/channels/6304f626d1a0ac00083a05c5/colorLogoPNG.png" group-title="Infantiles" tvg-chno="901", Los padrinos mágicos
 https://stitcher.pluto.tv/stitch/hls/channel/6304f626d1a0ac00083a05c5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
