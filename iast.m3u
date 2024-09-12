@@ -13,7 +13,7 @@ https://directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
 https://directes-tv-cat.ccma.cat/live-origin/c33-super3-hls/master.m3u8
 
 #EXTINF:-1 tvg-id="FDF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/1200px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" group-title="Series" tvg-chno="4", tvg-name="Factoría de Ficción",FDF
-https://livek.mediaset.es/orilinear10/live/linear10/main/main.isml/web.m3u8
+
 
 #EXTINF:-1 tvg-id="La Sexta HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/LaSexta_HD_Logo_2016.png" group-title="Generalistas" tvg-chno="6", tvg-name="La Sexta HD",La Sexta
 https://atres-live.atresmedia.com/a9d4ca336e22404646f37a2a35b2d0fa8ba7fd31_ES_1726129550_1726158290/h264/live/lasexta/master.m3u8
