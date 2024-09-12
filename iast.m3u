@@ -13,40 +13,40 @@ https://directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
 https://directes-tv-cat.ccma.cat/live-origin/c33-super3-hls/master.m3u8
 
 #EXTINF:-1 tvg-id="FDF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/1200px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" group-title="Series" tvg-chno="4", tvg-name="Factoría de Ficción",FDF
-https://oha.to/play/4133961499/index.m3u8
+https://livek.mediaset.es/orilinear10/live/linear10/main/main.isml/web.m3u8?hdnts=st=1726129827~exp=1726144226~acl=/*~hmac=125af5e50adcbcd90e40a0e01016de236409670bca90b13ab47616c06a5fd9f5
 
 #EXTINF:-1 tvg-id="La Sexta HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/LaSexta_HD_Logo_2016.png" group-title="Generalistas" tvg-chno="6", tvg-name="La Sexta HD",La Sexta
-https://atres-live.atresmedia.com/de064b9ae0c9f8320a9377692325799415869260_ES_1726069683_1726098423/h264/live/lasexta/master.m3u8
+https://atres-live.atresmedia.com/a9d4ca336e22404646f37a2a35b2d0fa8ba7fd31_ES_1726129550_1726158290/h264/live/lasexta/master.m3u8
 
 #EXTINF:-1 tvg-id="Neox" tvg-logo="https://seeklogo.com/images/N/neox-2023-logo-366DAF4F12-seeklogo.com.png" group-title="Generalistas" tvg-chno="7", tvg-name="Neox",Neox
-https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/--YDoOSKHo_aOm-tPU4S7wHdBM3Iuh3wUIs2cvjg21hX435cpSV8A-NMQ1E0TKSL8DORwCCkEwPFE22X6IogV6CdpPkQtnf0JoXnTIloPhP9OWaT211QJbi_xSnuLQZuaq8V_62jl7gZS-z71z-TbJlbC-yLH_00v90SH1FP1FHWjqVy6GdeRaXxjmoravFg/hls/index.m3u8
+https://atres-live.atresmedia.com/18612cb0e3031abd9d4d7acd57f75269b0d74f93_ES_1726129099_1726157839/h264/live/neox/master.m3u8
 
 #EXTINF:-1 tvg-id="Mega" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2560px-MEGA.svg.png" group-title="Generalistas" tvg-chno="8", tvg-name="Mega",Mega
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/t70UgJVeqGo6t0tfQd5q3TQx4ShG7rIGbvwJ0kfus39Mab1yg2l6RojQh4hwk1LDMO_EcCU4N9WXsxcduaKVzGVOeqmgm4OFoolwrrAyeYbcBjrfXQkDfd1wmvpwy9tOUtsLr3e_gCH_hd9AqHwC8HYp39qEs52BowppUQIusEukwIJ2pOXugykzLvKtEIRf/hls/index.m3u8
+https://atres-live.atresmedia.com/dfe0c7128db7b5eb98516d13b5fede56a126f08b_ES_1726129709_1726158449/h264/live/mega/master.m3u8
 
 #EXTINF:-1 tvg-id="Be Mad" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Be-Mad.png" group-title="Generalistas" tvg-chno="8", tvg-name="Be Mad",Be Mad
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/6OIeQ8V21R2XgFDyqFlxmWQx5HlWeBSudGoHiRgovtGH5OuHph7vV6OUPyyK1I-dsz_GsBO9SIdlPPvcSZzFouuu5YhTOZ5jikaFEcKOlq1T8uZs3TF3vSznCNr1NRQ1ZE1q5gskCDkwWQK7tqIfyH-BmxAh-r59MPauxI5qIhiP1feZje6sbXZTQUqLT7AY/hls/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Historia" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/History-Channel-Logo.png" group-title="Tematicos" tvg-chno="11", tvg-name="Historia",Historia
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/bN8DpZVBBw0HFc2Hh1Xb3QykjfNiq1rpLkQ_pcA89xrTzDZAJZeKlMUHE_rsceJyOnnjj2XNDQG2__79P8rSTDNdERZft5_YCz_cSKLfpd96ltwSEZKBz-1pwAvjWiVthtFLlgEjFRWkTy9IU8m27l6-rmo9tV9SgyahK5dll1Ap9Q0AUO_LAzcMatEgaQ-f/hls/index.m3u8
+
 
 #EXTINF:-1 tvg-id="DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Dmax.png" group-title="Tematicos" tvg-chno="11", tvg-name="DMAX",DMAX
-https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/kur3Ws3fbwpsN3pk1vnaLu1_ZgSM-wou4klcG-QCdijKGqrIHuzx1LBZnA8-tat1Bf30ob6SvG60ahVI7mCwO767TvVujLn_WHiwwuOaCbOgBtgG2DnXLTv7Gz0X1_H5SsoeBHyr3Q5Ym-kTDKsg6LyG1s38lHkFJ_aOzvfWRl4dKrcmtCxuRIi69JU1nIrN/hls/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Discovery" tvg-logo="https://www.foromedios.com/gallery/image/9880-discovery-channel-logo-1-1png/" group-title="Tematicos" tvg-chno="11", tvg-name="Discovery",Discovery Channel
-https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/UbmQt9KbcGObQ1qPl8FwEyBDur0RXX01Jz4b8vN2lMDwZE2E6xGBTfquQ-K4VXfqRVCpnqi9ygFmb0ooazeWgOeOOAPbfOJ1GDRc_Hnhlb86UYg1a3Aw0zvjNw8kwXfzEQSjDvtQsU8Bhg6b2Jemci7cgs1RKXogpSLPvu8DGCM/hls/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Nat Geo" tvg-logo="http://secondchanceswildlife.org/wp-content/uploads/2018/08/National-Geographic-Logo.png" group-title="Tematicos" tvg-chno="11", tvg-name="National Geographic HD",National Geographic
-https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/cvDN2WVLrzH7eRIJsGiYMZOJeYWZumfT3igOgxEJw8A_IO1E0b-GiNNV6mCIpEYHYOzUI2Rg6B5NF57O3xp9ELhcZeJ3gPZkhnif7EC6rcGiU1dA2t9bLMJ9M-o-m0kcd7oB3fHEUtp6U1xDtjYByu1NQemC30NyFBW9CCUZQamzPQxNncerdtc5jxACXyMc/hls/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Nat Geo Wild" tvg-logo="http://secondchanceswildlife.org/wp-content/uploads/2018/08/National-Geographic-Logo.png" group-title="Tematicos" tvg-chno="11", tvg-name="Nat Geo Wild HD",Nat Geo Wild
-https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/jOBrWNDzEohokBoS8yZ70XURPEML71iGMnvSGNylJaXvACy0kX8Lwobo59REFHY7wiLuBv-AOVYAkug9cOCjuxUOcC__Eks1SnmWIAxgbcrG2j353l-8VXvm_WjPUI3VV5zIucnKCsEe_IycYukJGTjIdhNXpaKLO6-YTKTsESUSihpCAHRUbXtyDlGkfqBP/hls/index.m3u8
+
 
 #EXTINF:-1 tvg-id="A&E" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/AE-logo.png" group-title="Tematicos" tvg-chno="11", tvg-name="A&E",A&E
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/M6bLLlG06pyhNzKnT-u-mo5PCrgky90XM6nOTPuq80KW1Ezfm9KdeMyv0GD5ottDfsARnE4pgrPHqGYXTj6WoCXkX_i1QXXrk2BEKXK8reEJFOdJ3rIRIHM6qAlEx0suw1FqO21NG1FtFG_hZfXKYqZQFvpPWZcMLU12K_p99lMJ56pXv8FusuIAVSmst1QD/hls/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Antena 3 HD" tvg-logo="https://seeklogo.com/images/A/antena-3-logo-BFB77BC1D8-seeklogo.com.png" group-title="Generalistas" tvg-chno="9", tvg-name="Antena 3 HD",Antena 3
-https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/XZUy6ntyckYfVMm1nPGHWetCpuI1fFEjHhMhV-74shmXKyuNo-cbarEd-bXZ6AQJDLMbodKnCvOXNb1YfvS8B8lynJQ001vaj9mVQJjY-9tkhenZwg4QHmwmv_9tqJznKiqNEbK-QczbQLWhAnUMI7LMDjZiSlvKrph3RcBqvn5jZCGOkA6XVIN0EKlaCYeB/hls/index.m3u8
+https://atres-live.atresmedia.com/8be18da76b5f044e49a10a3b06c9c118059c3a86_ES_1726129491_1726158231/h264/live/antena3/master.m3u8
 
 #EXTINF:-1 tvg-id="Cuatro HD" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/cuatro_logo_500_-1_343d.png" group-title="Generalistas" tvg-chno="10", tvg-name="Cuatro HD",Cuatro
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/index.m3u8
@@ -55,7 +55,7 @@ https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/index.
 https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5RAl3vj.png" group-title="Generalistas" tvg-chno="10" tvg-name="Telecinco HD",Telecinco
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/n4gyKkFSuSGQpguyx_p_C564wr9DhfREiyr9IPhD2D0waW62OWDoD-DFnnj7zgKXhz5UrZvR8ZqVdbF5o20MesLRvVpCPKLZepNb_B_GtIKwodzCJbjcwteS-RZ_uh1YVNr6rTSIB_kDxad1AH8Mpag3vhWuX8vxtaKeYj3E0rIZ9G3Q79f7uwOF04h5HdDo/hls/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/AQUINHQV/picture?width=200&height=200" group-title="Series" tvg-chno="9" tvg-name="Aquí no hay quién viva",Aquí no hay quién viva
 https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8
@@ -79,22 +79,22 @@ https://ztnr.rtve.es/ztnr/5466990.m3u8
 https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-Nickelodeon.png" group-title="Infantiles" tvg-name="Nickelodeon HD",Nickelodeon
-https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/RqtzVYo6kE9wtJX3lsISuoh-nl66ZOdnLnvcCxH3VzdW-AaNRmzHlEUIu_7ajz_ND1zABgsMOKUpMaxHa5QsHOpXznv8HaEl_JTxTnp4PmkYz0HXHWLqoXrIIlPOrHyu67IYsilbUZWUJl-SgP2sSOqjJgVwcw4-vTxKIC5y7OINlCL9NK5guSpLqlfAf9gG/hls/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="Infantiles" tvg-name="Pequeradio TV",Pequeradio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VrL6rYE.png" group-title="Peliculas" tvg-name="Warner TV",Warner TV
-https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/K140LEvt6bGBygOsn9Mn6TJryGdO30qBFg73qIikmr0J4w8B_x2YumJV1dL8CYSrJtDqDv2z5avw5j6V9Ze1Vy10GFsLpDUubV9bHQQSBsy2hiot4ObUv91Jb6ZpEvN4YeusAznB95A1a-lqIKDYh1Pu_sDmkn8d6mjjW1KTtRPUMrLFjj1zITpFj1oFypdh/hls/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DSIpIaP.png" group-title="Peliculas" tvg-name="DARK",DARK
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/MeWbfKoitxcC_CCE1JdaEjAPWMYsCNJ0sAcPyB1vOw4m9tjbn3X4bwgjqzjLfI0TKVswVqKt6HuTa7jUv6Er0l5urmdIBnp-wSjEGimoJqFSU3um38oi9Ynw4BetEwlGw4FwqWpwZzR9u_1TYjcF_NEBLLl3TaSVanOnzAipyFQXuvB14MyIUrnNjvQeJbIp/hls/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://brandemia.org/contenido/subidas/2014/03/calle131.jpg" group-title="Peliculas" tvg-name="Calle 13 HD",Calle 13
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/uluePIlX5n2nlH9a4lVS7wWOtk_uxhmtQqy431OWA6MvVQjPY6DNSGecCyc_AduDtpB3341oLszBNw7sM1uc_gi762bJrboczQ79Ny86ydA3cbAWX4JZ-aKJXlYG0Vu7Xx8TvnRBhZvwg6UfTpS0V6zXuiXdDsrjhhtrY2DEjkm8qfuqumJxxe88J9QwY8M0/hls/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/640b40225e0d9452eb6904e2/640b40225e0d94e6aa6909a6_star-channel.png" group-title="Peliculas" tvg-name="STAR Channel HD",Star Channel
-https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/tN4TcCZMNo_KM73NsaILKUursBbxFkWNMXkhMaEfOGMzwGScEmUHIn5uMTcWyL3JJT-94HbzXyqlCsME9nhhj5iDIQQQtTM1jCssWOMVy0JMOOYW3DFzhmyvp1X2LREtNCOillDMlCE4Uk3EV61lwIGmCQkjiDHdgTwNHG5LhqbgGtcsJHWJ1k9-nPtjkK6L/hls/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title="Peliculas" tvg-name="Multicine atresplayer",A3 Multicine
 https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc.m3u8
@@ -109,7 +109,7 @@ https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429
 https://ztnr.rtve.es/ztnr/6909845.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DNybIjX.png" group-title="Series" tvg-name="Atresplayer Series",Atresplayer Series
-https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/4AvGtSe1auFHaCPB94fR797zMGUDV4jVvIhBSNqp-NgFk3C16hDAPg904jOd6tGKJ3FJCautHqcLLLDBxOPvMza6vVydTtTE9W9UIeUNLn2TSHDkuoH8soEzF6kcM-TEQRvTE5ls34QyP5BwQd2qg_ZbdMmPOygiAuPiddeHjgvEsmXYKythpimj6VYwCrkc/hls/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Series" tvg-name="RTVE Series",RTVE Series
 https://ztnr.rtve.es/ztnr/6922467.m3u8
@@ -166,25 +166,25 @@ https://stitcher.pluto.tv/stitch/hls/channel/60d3574e97f10800078455de/master.m3u
 https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5f1ac1f1b66c76000790ef27" tvg-name="M+ Comedia HD" tvg-logo="https://i.imgur.com/Dmh1sNF.png" group-title="Humor" tvg-chno="200",M+ Comedia
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/wjdrcas1OlrLSWV6MAulVM2zinGBfFuPZZyAKxixR9nNLGZ1w1yNkcWeUXgNEAMnb2tGHKMu8ggcxcg6UORX7u1IlUWkTXLGlNWfpMfdUSbEs46zxiYl7tiM4XK4mJlX_VxEnTt1yHtxnMKil8nlHLc2KQcFtge9_fmkq55ZIzGh3flz-uLjPGi4pLaANWsb/hls/index.m3u8
+
 
 #EXTINF:-1 tvg-id="5f1ac1f1b66c76000790ef27" tvg-name="Syfy HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="Peliculas" tvg-chno="200",Syfy
-https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/dQSOrMMZIbvTn5ibEkj44dC-oDwX_ysI6bXDSNfCd3917KtQp-Af1BlrrBYvSO0GE8p5X1uYUARPj-Pj4DbSOkqxk4sU6bEKG3_jz3cBwLjfdO4wL80FOdEQteeMzczKmqw56Muk577oSby3eQJ6xupAMLBMqq8uOLZCD-eLDGFhWQYPJF6hE5XIYzT3s-7k/hls/index.m3u8
+
 
 #EXTINF:-1 tvg-id="5f1ac1f1b66c76000790ef27" tvg-name="Pluto TV peliculas Estelar" tvg-logo="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png" group-title="Peliculas" tvg-chno="200", Pluto TV Cine Estelar
 https://stitcher.pluto.tv/stitch/hls/channel/5f1ac1f1b66c76000790ef27/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
 
 #EXTINF:-1 tvg-id="5f1ac1f1b66c76000790ef27" tvg-name="AXN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/AXN_HD_Logo_2015.png" group-title="Peliculas" tvg-chno="200", AXN
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/d598vupdAQc9Oqal7Dp1SF85qs9xgtYUb1HDBHq95duNLeMOxq-Xc-JOsB-2wiJzh5jE16Jpei3BfypImg27T3NHb9OGTzNwhEW1_RYv8IXwoJoFYFvlf4WnJ99BJdG2exRHbcaPwzIBAMx9t3c5z2Ad2IfBSP8XgakGgOwDflBWLI4zfLZqIBN55yoCzfP7/hls/index.m3u8
+
 
 #EXTINF:-1 tvg-id="5f1ac1f1b66c76000790ef27" tvg-name="M+ Acción HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwQpf3bK8lcZBW6dNMJs5kZ2o-4mpMEdmUXQ&s" group-title="Peliculas" tvg-chno="200", M+ Acción
-https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/4JmYU2GHN-uvRZbiyP2v5aW9dkUTT1EXekK68GQ73Ol9shE8F0aeqN0NgKU6nd-cfIANjgSPVtAEaQngZNrJvzxUIfvJP88pWaX9M00tonyA-eE-a0rYjt3B_ESYS8MfvEgara0sTuwrWm4Q1vVnFuk_r5tCSTXnN8ePxrMrcWK22ETMKXaYVIh7iMg7y366/hls/index.m3u8
+
 
 #EXTINF:-1 tvg-id="5f1ac1f1b66c76000790ef27" tvg-name="Hollywood Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Canal_Hollywood.png" group-title="Peliculas" tvg-chno="200", Hollywood
-https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/wUz8jM-9iRu3d_CHaHX9yK9RA8gidvLBKMbvNfNXHcWc_0iOSHBkavir2qbe_CEew5uIhNtWv8DPVgOtDdz-hs_eq8zgyLWQ6XRCa-91rV67hjexZh0etShHLhyyy6fK5gZnqFdTaxy_pj0nyhx4V9jzvHk-p-Kn71394KfVXhckWZpTNR8X3QVMA_8tFLKK/hls/index.m3u8
+
 
 #EXTINF:-1 tvg-id="5f1ac1f1b66c76000790ef27" tvg-name="AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Canal_Hollywood.png" group-title="Peliculas" tvg-chno="200", AMC
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/j5XMyeklplJxugWnJinFtuKEoB5YTVhbNWyaQRgzAYHmNEczvQKLEZX2sUWaLk6VVsRr0eg5JzI1iDoJicpeGHE6WfZDfAww22ERveZX4g2zCb70pNZ2Jz5qnhF7phAr6f7SXPeV4lvYNjbX0u8A2fBBfmmDQL6W8-0eJ5PubpjbIUON6aSjPeC1a7IXT6um/hls/index.m3u8
+
 
 #EXTINF:-1 tvg-id="5f1ac2591dd8880007bb7d6d" tvg-name="Pluto TV Cine Acción" tvg-logo="https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/colorLogoPNG.png" group-title="Peliculas" tvg-chno="201", Pluto TV Cine Acción
 https://stitcher.pluto.tv/stitch/hls/channel/5f1ac2591dd8880007bb7d6d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
@@ -235,13 +235,13 @@ https://stitcher.pluto.tv/stitch/hls/channel/6086d3f420fc8500075f8dbf/master.m3u
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5f1aadf373bed3000794d1d7" tvg-name="Viajar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Canalviajar.png" group-title="Tematicos" tvg-chno="552", Viajar
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/rrHcxzx9eYxRg8BQaoj02bpWJT5TL_FRw4YYw9hCn48xH6Cz35CHzTW59byDm76wwxTytoqg5b6MIWmqCVgIxip4cu8oVKkDtXeTn3azCb__r-hINETlW5cmxGtpCBrsIUEJKvmEqKq0-IAQgsKtwEESV58c4tkbHbtSHMQWZYU/hls/index.m3u8
+
 
 #EXTINF:-1 tvg-id="5f1aadf373bed3000794d1d7" tvg-name="Decasa" tvg-logo="https://i.imgur.com/geTzdtQ.png" group-title="Tematicos" tvg-chno="552", Decasa
-https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/an0-7cKPn1IDRcw_Mg3r_uGsdJJE7E9QNk61oflItw8tZOB8jS3gf0LZFp6jbzY61ldrY47FL01vzZkkjtPXDY8SuGH7Tqru44ZaepHHKp13b1-nxEhi9a1jV2kwYUFicvz8d5gN7-rpLQ6It-MS4y4arZewsq4WVNEngRBjFliExVTh7FZa5lmy2bjlBSqO/hls/index.m3u8
+
 
 #EXTINF:-1 tvg-id="5f1aadf373bed3000794d1d7" tvg-name="MTV España" tvg-logo="https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png" group-title="Tematicos" tvg-chno="552", MTV España
-https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/_IenF3JTHMJ1OVODfG_oOQW19uArHNF_5XDgCwMLKumhdyOqw-_9cLa3Qyeah__H5sRWyDpB4utYZ8_6AqC492LOtg2B4dw8nZTjiHbVXI4d_q1DYrVeJVa_z8loy7qmK0D5cH1mFt9Tyhak8UeKcpinpGUmdk6qUAnT7lt5Dc-5m5QbwWhGHQN711aNvYYe/hls/index.m3u8
+
 
 #EXTINF:-1 tvg-id="5f1aadf373bed3000794d1d7" tvg-name="MTV Originals" tvg-logo="https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png" group-title="Tematicos" tvg-chno="552", MTV Originals
 https://stitcher.pluto.tv/stitch/hls/channel/5f1aadf373bed3000794d1d7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
@@ -253,7 +253,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/645a309c5a0cd5000873f609/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/5f984f4a09e92d0007d74647/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
 
 #EXTINF:-1 tvg-id="5f1ac1f1b66c76000790ef27" tvg-name="M+ Series HD" tvg-logo="https://i.imgur.com/c9KSswd.png" group-title="Series" tvg-chno="200", M+ Series
-https://oha.to/play/1138873971/index.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
+
 
 #EXTINF:-1 tvg-id="65cf6ab58145cb0008129ca8" tvg-name="Pluto TV Series criminales" tvg-logo="https://images.pluto.tv/channels/65cf6ab58145cb0008129ca8/colorLogoPNG.png" group-title="Tematicos" tvg-chno="310", Pluto TV Series criminales
 https://stitcher.pluto.tv/stitch/hls/channel/65cf6ab58145cb0008129ca8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
@@ -271,7 +271,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/65a6884c07e03a00088e0d6e/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/5f1abf5fafb5ee0007d4d0ca/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
 
 #EXTINF:-1 tvg-id="5f1abf5fafb5ee0007d4d0ca" tvg-name="Comedy Central HD" tvg-logo="https://i.imgur.com/JCsEoTG.png" group-title="Humor" tvg-chno="355", Comedy Central
-https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/Uak_4YiFQlYuvq_vzUcplmhgWxW9r04Sg1WoJbSHZBg9NcLb5pkJ-OyPZR3mhuGMk9Kk5IaVcKKZA6_WiWeeuJ3MMgdVZbZReaPCr02Xn9n83aQ1bnVFJJbooNhzi8Va5kFLE5zf0tzqrcFucQhvuAZbsjv8tmhLBAt_t7bdBls4kKO7mlsx0ummTTP3vn4d/hls/index.m3u8
+
 
 #EXTINF:-1 tvg-id="604f8125c6669b00077f7699" tvg-name="Wipeout" tvg-logo="https://images.pluto.tv/channels/604f8125c6669b00077f7699/colorLogoPNG.png" group-title="Humor" tvg-chno="356", Wipeout
 https://stitcher.pluto.tv/stitch/hls/channel/604f8125c6669b00077f7699/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
@@ -379,7 +379,7 @@ acestream://8ca07071b39185431f8e940ec98d1add9e561639
 acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Tv-channel-%E2%94%82-dazn-1.png" group-title="Sports" tvg-id="DAZN 1 HD", DAZN 1 HD
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/hjTItsd05MY9BduI61nnsJ8jywKydv1qbP1rRsXIWag1tz4ai0RL28FqsB1EBgTlqtU1WWMM0zKRD-NO8HCfKqPSJ3yC57EhZEZGhOgB2uHtVzA_LO_lFlYhX_L0UW9lAfaCFyZsascc6AM7X6UkO_TECJpKLzIvQUwkbRm-06LHWtUFQlgejkAFM-QCpYOR/hls/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReWRdf3eYiGKDEKkTpL_3zwtPfngy9bEa6FQ&s" group-title="Motor" tvg-id="DAZN F1 HD", DAZN F1 HD
 acestream://5789ca155323664edd293b848606688edf803f4d
@@ -391,7 +391,7 @@ acestream://9dad717d99b29a05672166258a77c25b57713dd5
 acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReWRdf3eYiGKDEKkTpL_3zwtPfngy9bEa6FQ&s" group-title="Sports" tvg-id="DAZN F1 HD", DAZN F1 HD
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/q_AyazCPVUqmyiq4vDTlL81_OrMs_1_J2Qyl5pKzI0O6zWZR5F0PmpoQtkD4P_YcFr4NHkeXv6GmeY2jRN4rVQYTObFz5x3Y69vnGXBoUjItNnPtFzzHmPlJfy6NwRz2Me8zWRC0GiPkNyMnCJzaS8jz_Il-eaOG4gcMrwN_uyfP8zIsq9hJwwT1Z8gkvd99/hls/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/C4E22AQFDTY5SMdP8zw/feedshare-shrink_2048_1536/0/1677665589604?e=2147483647&v=beta&t=UYPapfW-21O_4j_jph0YDwJHKTaisrDjqx5OiYdLs8E" group-title="Motor" tvg-id="F1 TV", F1 TV
 acestream://af3a82ac74286b504bbc07c4f55f4de3e9849fc4
@@ -403,7 +403,7 @@ acestream://6ada0ea83d3ae47d41a8cedcbfe12b894988f691
 acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/01/dazn2.png" group-title="Sports" tvg-id="DAZN 2", DAZN 2 HD
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/nstrTzR-iQg5IFLkeEjoUUBvPPNZ103JmWh07dIkRFimqa_OLGesF28FLzFBSM4MBCqqqEXoxcwJmSgqMtNVMroy2lyDxMJBPNUlP543Mfyxcq5iWewqN9fFmh6Yok2qGXmSETEG9ubJkH-gasruhuuc1xPrrC7ROfRQ_Yao7rc1aYkyRojgPDRRLz8veigG/hls/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/03/dazn3.png" group-title="Deportes" tvg-id="DAZN 3", DAZN 3 HD
 acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
@@ -421,13 +421,13 @@ acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
 acestream://f031f5728b32f6089dda28edebe990cf198108d8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Sports" tvg-id="M+ LaLiga TV HD", M+ LaLiga
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/kOodycKukpdp4Beo5-Dc-KPO_HJBc8mjZGbAIxPk4GFAeRe77hXdNNFlFp4nvUmdEu257T9jMJHCcdqbvThiHdY1cEfPMGVrVBN67swLqAlZYpGPrC8yNC0S6yI3yf1nZZZycCMgy8k9ej3a_yIeAeCr6Xt4Bmy62wNiGhzP7vw6UCpqiw_kd6hh-zqGp1EU/hls/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/ficha_m/MLIG1.png" group-title="Futbol" tvg-id="M+ LaLiga TV 2 HD", M+ LaLiga 2 HD
 acestream://80126b240f3e4e004754fd8f8103e857ab2556a0
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEONEGR/ficha_m/MLIG1.png" group-title="Sports" tvg-id="M+ LaLiga TV 2 HD", M+ LaLiga 2 HD
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/AAQiASCQx4E5EV1nrJErgFmtqhKcJAhjYg5jKl70YeW8-1g8_cpzQDVP5tAX4iz_jzanvg6DaXzqFUC0vP5cPH2PD4JDbZas75YYSqREBVbm_OXpBkwUVlVWDep3eax8yBxniT10ybFkbDUetEgPwQiEv26yjVplJo3KtoRoZa392EjSIomdD0drHEwQqLmk/hls/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yxgnPYF8/Captura-de-pantalla-2024-06-17-215407.png" group-title="Futbol" tvg-id="DAZN LaLiga HD", DAZN LaLiga HD Multiaudio
 acestream://1960a9be8ae9e8c755330218eac4c5805466290a
@@ -436,17 +436,16 @@ acestream://1960a9be8ae9e8c755330218eac4c5805466290a
 acestream://75251ba975132ec9a202806ba5bf606e87280c96
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yxgnPYF8/Captura-de-pantalla-2024-06-17-215407.png" group-title="Sports" tvg-id="DAZN LaLiga HD", DAZN LaLiga HD
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/ci0j-Qg5TYWKMr8_73-9D5q8iSiV3xlKNLv3SRHskR0HUiwQ2s71AwNat3mAxpUWLkz3uc9ogBbthUsQ8GggjxKHdPBp_WzzYgpsCUvZn4r-N06hsY7sMqLpCanLLY94v-3WI6xqJeIo4FzD5FVCNfzbpcGtJLwBTQ-GhQwXSt2Fmf5SGOPCr5MHCNt3n65z/hls/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6p3hYT7R/Sin-t-tulo-3.png" group-title="Futbol" tvg-id="DAZN LaLiga 2", DAZN LaLiga 2
 acestream://e33e666c393ef04ebe99a9b92135d2e0b48c4d10
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6p3hYT7R/Sin-t-tulo-3.png" group-title="Sports" tvg-id="DAZN LaLiga 2", DAZN LaLiga 2
 
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/KQfjvJISgfPCNNhnkcF0FTf3hWyMxxOxSx7dOFXsP5dqgdxf-aGWpIz_B2zMeTklXZkWWAHl539LNbmHQEPkDHOpiRI9uYUe2TzFnK3ikKgCJ2ao66ermxcch2VnfMRrE72eapxwCQh5xlJeeyQFAcogxI_aEW0-r16lXJHCwt4/hls/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/6p3hYT7R/Sin-t-tulo-3.png" group-title="Sports" tvg-id="Ellas Vamos HD", Ellas Vamos
-https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/_EFftANXVIXQFAdfkaYY8FA4ZbB-WcXvthyMAUqvdto9AfFsR0r8Ck72DQKrxCCBjiGvKcLVnQbmDWnaI1Ogn_Lmkd7-95LrWvkFrBTqu63OAIsBqu00bUPyS7N8J6zFt6sZMdlCB8fU6_zfyJKpF0w583uoMUCb8ubqg8Nk2BkKoRRPxKnS9UAE-Lpi1OAm/hls/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/375px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Futbol" tvg-id="M+ Liga de Campeones HD", M+ Liga de Campeones HD Multiaudio
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
@@ -461,7 +460,7 @@ acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
 acestream://67654e63b5065cdaa6c8e8d41bb5428b42b32830
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/375px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="Sports" tvg-id="M+ Liga de Campeones HD", M+ Liga de Campeones
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/LaYZI-Y2GgNTY5zDRhcebIhTSYJU9hbhwFYJqBBJo8mx1OtAvirOMt0chSCFAOIdfIiLmjU_NUkGGhfG9XjX8J-3vfkHrnOlct7lRQ41IUlkffKfnAoCFsfX05dxFgfSz0EksFnWJDViAHGChAeuE2ym5XIYU2svLnZ84yWjFMVqBfOkoujlbtBxW0jenXxG/hls/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Liga_de_Campeones_2_por_Movistar_Plus%2B.png/" group-title="Futbol" tvg-id="M+ Liga de Campeones 2 HD", M+ Liga de Campeones 2 HD
 acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9
@@ -497,7 +496,7 @@ acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
 acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 
 #EXTINF:-1 tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/vamos.png" group-title="Sports" tvg-id="M+ Vamos HD", #Vamos HD
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/G_7-IUAFHMccQ28JT9GmE8OOzsaRbVyA5im_QZHSy4VpRltrOkzqsyvwt6hecERAYQls2-HrfusXDUnZA0ZHj2Yjo0ogk-WGearwx9DwF8mt3CGgFy2OoFU45-EUpD1JzNL_z94eS8eHcGkfsDkw4TqI91QudYx2nrqG2a7lLXYCkgKh12j-23iKmMcvxOzu/hls/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPDEP.png" group-title="Deportes" tvg-id="M+ Deportes HD", M+ Deportes HD
 acestream://d00223931b1854163e24c5c22475015d7d45c112
@@ -506,7 +505,7 @@ acestream://d00223931b1854163e24c5c22475015d7d45c112
 acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
 
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CPDEP.png" group-title="Sports" tvg-id="M+ Deportes HD", M+ Deportes
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/TFPmQ84nEtPpTxmSKr2L-7mR1RDMSS2t08bSYQ8sv08A9b2oRKvrooR8EgFxCkQooL-oEYMM5Xp8eQHMyVFxxiFGymcccq9v2X2TKT5B5HrtU4vBb4-sE-kYpFHqpr4d6Y-ZwNccuKWIb7qXQkhzXvjjmNDYUaIQiDadYpiNlyMPew5dGppiennF1sJ1BGk0/hls/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/2070px-Movistar_Deportes_2.svg.png" group-title="Deportes" tvg-id="M+ Deportes 2 HD", M+ Deportes 2
 acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
@@ -563,13 +562,13 @@ acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
 acestream://ef3a9359800bba51018fe00ac84afb8e79a7bbf2
 
 #EXTINF:-1 tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2022/02/movistar-2619511.jpg" group-title="Generalistas" tvg-id="Movistar Plus+ HD", Movistar Plus+ HD
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/plpFMDM15e-KlKRRLJ053FSlp7gCVUA5aHTFIYd79NCqBHyvgoN34GBtgUnAwOlE6pUdwpiv5wRPk01Ceuc1ayzq_AroHIzejLm471ToQddtKCnH18nr44NXGTMe7OPYEngw2OiFFrj0Z263-sT7PuYJRVxIvhm6JogcvUa5tuvfVZmn0KwQBD1RYLmL-DOv/hls/index.m3u8
+
 
 #EXTINF:-1 tvg-id="TDP.TV" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Deportes" tvg-name="Teledeporte",Teledeporte
 https://ztnr.rtve.es/ztnr/1712295.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/MundoNautica/picture?width=200&height=200" group-title="Deportes" tvg-name="Mundo Nautica",Mundo Nautica
-#EXTVLCOPT:http-referrer=https://player.streamingconnect.com/
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TraceSSLogo.png/1200px-TraceSSLogo.png" group-title="Deportes" tvg-name="Trace Sports Stars",Trace Sport Stars
 http://tracesportstars-samsunges.amagi.tv/hls/amagi_hls_data_samsunguk-tracesport-samsungspain/CDN/playlist.m3u8
