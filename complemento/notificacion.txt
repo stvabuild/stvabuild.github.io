@@ -8,9 +8,5 @@ Limpiar la aplicación, Herramientas para Addons e instalar los Packs de Ajustes
 
 Si tras la instalación del addon, alguna sección no funciona, cierra la aplicación y vuelve a abrirla.[/COLOR]  
 
-[COLOR yellow][B]3/2/24 - Nuevos packs de Ajustes[/B][/COLOR]
-Se han actualizado el pack ajustes y el pack ajustes con videoteca (este último sin cambiar la versión).
-- Se han actualizado los ajustes del addon alfa
-
 +info stva.es
 Telegram: @stvabuild
